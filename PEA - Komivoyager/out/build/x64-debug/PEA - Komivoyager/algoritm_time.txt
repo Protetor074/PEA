@@ -1,0 +1,1 @@
+Typ algorytmu ; Czas dla listy ; Czas dla macierzy ; Gêstoœæ ; Liczba wierzcho³ków

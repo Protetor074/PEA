@@ -1,0 +1,5 @@
+C:/Users/alfag/OneDrive/Pulpit/Projekty/PEA/PEA - Komivoyager/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/alfag/OneDrive/Pulpit/Projekty/PEA/PEA - Komivoyager/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/alfag/OneDrive/Pulpit/Projekty/PEA/PEA - Komivoyager/out/build/x64-debug/PEA - Komivoyager/CMakeFiles/CMakeTarget.dir
+C:/Users/alfag/OneDrive/Pulpit/Projekty/PEA/PEA - Komivoyager/out/build/x64-debug/PEA - Komivoyager/CMakeFiles/edit_cache.dir
+C:/Users/alfag/OneDrive/Pulpit/Projekty/PEA/PEA - Komivoyager/out/build/x64-debug/PEA - Komivoyager/CMakeFiles/rebuild_cache.dir
