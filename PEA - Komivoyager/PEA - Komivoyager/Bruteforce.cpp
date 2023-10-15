@@ -42,6 +42,8 @@ void Bruteforce::foundBestTrip(int n, int** tabLocation) {
         tripCost += tabLocation[bestTrip[i]-1][bestTrip[i+1]-1];
         //std::cout << "Form " << bestTrip[i] << " to " << bestTrip[i+1] << " Cost = " << tabLocation[bestTrip[i]-1][bestTrip[i+1]-1] << std::endl;
     }
+    tripCost += tabLocation[bestTrip.back()-1][bestTrip.front()-1];
+    //std::cout << "Form " << bestTrip.back() << " to " << bestTrip.front() << " Cost = " << tabLocation[bestTrip.back()-1][bestTrip.front()-1] << std::endl;
     //std::cout << "Total cost = " << tripCost << std::endl << std::endl;
 
     for (int j = 1; j < allCombinations.size(); j++) {
@@ -57,6 +59,8 @@ void Bruteforce::foundBestTrip(int n, int** tabLocation) {
             curentTripCost += tabLocation[curentTrip[i] - 1][curentTrip[i + 1] - 1];
             //std::cout << "Form " << curentTrip[i] << " to " << curentTrip[i + 1] << " Cost = " << tabLocation[curentTrip[i] - 1][curentTrip[i + 1] - 1] << std::endl;
         }
+        curentTripCost += tabLocation[curentTrip.back()-1][curentTrip.front()-1];
+        //std::cout << "Form " << curentTrip.back() << " to " << curentTrip.front() << " Cost = " << tabLocation[curentTrip.back()-1][curentTrip.front()-1] << std::endl;
         //std::cout << "Curent cost = " << curentTripCost << std::endl;
         if (curentTripCost < tripCost) {
             tripCost = curentTripCost;
@@ -72,4 +76,19 @@ void Bruteforce::showResults() {
         std::cout << bestTrip[i] << " ";
     }
     std::cout << "Total cost = " << tripCost << std::endl;
+}
+
+void Bruteforce::filewriter(std::string fileName) {
+    std::fstream plik;
+    int liczba;
+
+    plik.open(fileName, std::ios::out);
+
+    plik << "Trip :";
+    for (int i = 0; i < bestTrip.size(); ++i) {
+       plik << bestTrip[i] << " ";
+    }
+    plik << bestTrip.back();
+    plik << "\nTotal Cost = " << tripCost;
+    plik.close();
 }

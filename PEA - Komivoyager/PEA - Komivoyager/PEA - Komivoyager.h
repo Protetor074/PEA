@@ -9,5 +9,8 @@
 #include "Bruteforce.h"
 #include "KomivoyagerLocation.h"
 #include "Mensuration.h"
+#include <windows.h>
+#include "SimpleIni.h"
+
 
 // TODO: W tym miejscu przywołaj dodatkowe nagłówki wymagane przez program.

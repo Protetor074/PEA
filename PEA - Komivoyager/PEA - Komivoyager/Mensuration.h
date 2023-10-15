@@ -6,8 +6,7 @@ class Pomiar {
 
 public:
 	void main_menu();
-	void test();
-	void test2();
+	void test(std::string outputFile,int testNumber, int testRepeat);
 private:
 	void StartCounter();
 	double GetCounter();

@@ -24,7 +24,7 @@ void Pomiar::main_menu() {
 void Pomiar::file_clear(std::string plik_name) {
 	std::fstream plik;
 	plik.open(plik_name, std::ios::out);
-	plik << "Numer pomiaru ; Próba badawcza ; Liczba wierzcho³ków ; Czas[ms] ; Liczba wierzcho³ków" << std::endl;
+	plik << "Numer pomiaru ; Próba badawcza ; Numer pomiaru instancji ; Czas[ms] ; Liczba wierzcho³ków" << std::endl;
 	plik.close();
 }
 
@@ -134,53 +134,57 @@ void Pomiar::all(int size_test_group) {
 
 	filewriter(time_end - time_start, 0 - 0, "Bruteforce.txt", "P5 - 1-1000", 1, size_test_group);
 }
-void Pomiar::test() {
+void Pomiar::test(std::string outputFile, int testNumber, int testRepeat) {
+	int instantionMultiplicationTest = testRepeat;
 
-	file_clear("Bruteforce.txt");
+	file_clear(outputFile);
 
 	double time_start, time_end;
 	StartCounter();
 	Bruteforce bf;
 	KomivoyagerLocation kv;
 
-	for (int j = 3; j < 13; j++) {
-		for (int i = 0; i < 200; i++) {
-			std::cout << "Pomiar " << i + 1 << " - 1-10 dla " << j << std::endl;
+	for (int j = 3; j <= 11; j++) {
+		for (int i = 1; i <= testNumber; i++) {
+			std::cout << "Pomiar " << i << " - 1-10 dla " << j << std::endl;
 			std::cout << "Bruteforce - Data Generate" << std::endl;
 			kv.generate(j, 10);
-			std::cout << "Bruteforce - Pomiar" << std::endl;
-			time_start = GetCounter();
-			bf.foundBestTrip(kv.size, kv.tabLocation);
-			time_end = GetCounter();
+			for (int z = 1; z <= instantionMultiplicationTest; z++) {
+				std::cout << "Bruteforce - Pomiar " << i << " powtozenie instancji " << z << std::endl;
+				time_start = GetCounter();
+				bf.foundBestTrip(kv.size, kv.tabLocation);
+				time_end = GetCounter();
 
-			filewriter(j,time_end - time_start, "Bruteforce.txt", "1-10", i, kv.size);
+				filewriter(z, time_end - time_start, "Bruteforce.txt", "1-10", i, kv.size);
+			}
+			
 
-			std::cout << "Pomiar " << i + 1 << " - 1-1000 dla " << j << std::endl;
+			
+
+			std::cout << "Pomiar " << i << " - 1-1000 dla " << j << std::endl;
 			std::cout << "Bruteforce - Data Generate" << std::endl;
 			kv.generate(j, 1000);
-			std::cout << "Bruteforce - Pomiar" << std::endl;
-			time_start = GetCounter();
-			bf.foundBestTrip(kv.size, kv.tabLocation);
-			time_end = GetCounter();
+			for (int z = 1; z <= instantionMultiplicationTest; z++) {
+				std::cout << "Bruteforce - Pomiar " << i << " powtozenie instancji " << z << std::endl;
+				time_start = GetCounter();
+				bf.foundBestTrip(kv.size, kv.tabLocation);
+				time_end = GetCounter();
 
-			filewriter(j, time_end - time_start, "Bruteforce.txt", "1-1000", i, kv.size);
+				filewriter(z, time_end - time_start, "Bruteforce.txt", "1-1000", i, kv.size);
+			}
 
-			std::cout << "Pomiar " << i + 1 << " - 1-1000000 dla " << j << std::endl;
+			std::cout << "Pomiar " << i << " - 1-1000000 dla " << j << std::endl;
 			std::cout << "Bruteforce - Data Generate" << std::endl;
 			kv.generate(j, 1000000);
-			std::cout << "Bruteforce - Pomiar" << std::endl;
-			time_start = GetCounter();
-			bf.foundBestTrip(kv.size, kv.tabLocation);
-			time_end = GetCounter();
+			for (int z = 1; z <= instantionMultiplicationTest; z++) {
+				std::cout << "Bruteforce - Pomiar " << i << " powtozenie instancji " << z << std::endl;
+				time_start = GetCounter();
+				bf.foundBestTrip(kv.size, kv.tabLocation);
+				time_end = GetCounter();
 
-			filewriter(j, time_end - time_start, "Bruteforce.txt", "1-1000000", i, kv.size);
-
+				filewriter(z, time_end - time_start, "Bruteforce.txt", "1-1000000", i, kv.size);
+			}
 		}
 	}
 }
 
-void Pomiar::test2() {
-	StartCounter();
-	Sleep(1000);
-	std::cout << GetCounter() << "\n";
-}

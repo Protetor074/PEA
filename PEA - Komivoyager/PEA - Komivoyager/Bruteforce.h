@@ -1,4 +1,5 @@
 #include <vector>
+#include <string>
 class Bruteforce
 {
 public:
@@ -6,6 +7,7 @@ public:
 	void foundBestTrip(int n, int** tabLocation);
 	void printCombination();
 	void showResults();
+	void filewriter(std::string fileName);
 
 private:
 
@@ -14,5 +16,6 @@ private:
 	std::vector<int> currentCombination;
 	void generateAllCombination(int n);
 	std::vector<std::vector<int>> allCombinations;
+
 
 };
