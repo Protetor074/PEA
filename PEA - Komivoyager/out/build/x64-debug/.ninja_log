@@ -1,24 +1,6 @@
 # ninja log v5
 2	1562	7190064566022848	PEA - Komivoyager/CMakeFiles/CMakeTarget.dir/PEA_-_Komivoyager.cpp.obj	7c12fae2a2c4d50a
-3	1282	7190522568954514	PEA - Komivoyager/CMakeFiles/CMakeTarget.dir/Bruteforce.cpp.obj	3bb037cc6c84076
-1282	1430	7190522570188720	PEA - Komivoyager/CMakeTarget.exe	af859b9399d80a2a
-12	1489	7190057138575847	PEA - Komivoyager/CMakeFiles/CMakeTarget.dir/KomivoyagerLocation.cpp.obj	bdfa474307f97e37
-15	1517	7190057138883276	PEA - Komivoyager/CMakeFiles/CMakeTarget.dir/Mensuration.cpp.obj	664a7178bc6e8187
-5	1397	7190522888221004	PEA - Komivoyager/CMakeFiles/CMakeTarget.dir/Bruteforce.cpp.obj	3bb037cc6c84076
-1400	1559	7190522889565071	PEA - Komivoyager/CMakeTarget.exe	af859b9399d80a2a
-2	1316	7190523132252872	PEA - Komivoyager/CMakeFiles/CMakeTarget.dir/Bruteforce.cpp.obj	3bb037cc6c84076
-1316	1472	7190523133509562	PEA - Komivoyager/CMakeTarget.exe	af859b9399d80a2a
-2	1168	7190523274895487	PEA - Komivoyager/CMakeFiles/CMakeTarget.dir/Bruteforce.cpp.obj	3bb037cc6c84076
-1168	1318	7190523276114129	PEA - Komivoyager/CMakeTarget.exe	af859b9399d80a2a
-2	1300	7190524170355266	PEA - Komivoyager/CMakeFiles/CMakeTarget.dir/Bruteforce.cpp.obj	3bb037cc6c84076
-1301	1468	7190524171715949	PEA - Komivoyager/CMakeTarget.exe	af859b9399d80a2a
-3	1393	7190524376468224	PEA - Komivoyager/CMakeFiles/CMakeTarget.dir/Bruteforce.cpp.obj	3bb037cc6c84076
-1394	1559	7190524377806817	PEA - Komivoyager/CMakeTarget.exe	af859b9399d80a2a
-3	1359	7190524913564305	PEA - Komivoyager/CMakeFiles/CMakeTarget.dir/Bruteforce.cpp.obj	3bb037cc6c84076
-1359	1516	7190524914813123	PEA - Komivoyager/CMakeTarget.exe	af859b9399d80a2a
-3	1366	7190525770628967	PEA - Komivoyager/CMakeFiles/CMakeTarget.dir/Bruteforce.cpp.obj	3bb037cc6c84076
-1366	1515	7190525771844207	PEA - Komivoyager/CMakeTarget.exe	af859b9399d80a2a
-2	1187	7190526618705254	PEA - Komivoyager/CMakeFiles/CMakeTarget.dir/Bruteforce.cpp.obj	3bb037cc6c84076
-1188	1325	7190526619833097	PEA - Komivoyager/CMakeTarget.exe	af859b9399d80a2a
 12	1635	7190564456888413	PEA - Komivoyager/CMakeFiles/CMakeTarget.dir/Bruteforce.cpp.obj	3bb037cc6c84076
 1636	2039	7190564460190420	PEA - Komivoyager/CMakeTarget.exe	af859b9399d80a2a
+12	1489	7190057138575847	PEA - Komivoyager/CMakeFiles/CMakeTarget.dir/KomivoyagerLocation.cpp.obj	bdfa474307f97e37
+15	1517	7190057138883276	PEA - Komivoyager/CMakeFiles/CMakeTarget.dir/Mensuration.cpp.obj	664a7178bc6e8187
