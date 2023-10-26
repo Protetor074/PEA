@@ -2,7 +2,8 @@
 
 void Bruteforce::generateAllCombination(int n) {
     if (currentCombination.size() == n) {
-        allCombinations.push_back(currentCombination);
+        
+        allCombinations.push_back(currentCombination);      
         return;
     }
 
@@ -10,11 +11,14 @@ void Bruteforce::generateAllCombination(int n) {
         // Sprawdzamy, czy liczba i nie jest ju¿ w bie¿¹cej kombinacji
         if (std::find(currentCombination.begin(), currentCombination.end(), i) == currentCombination.end()) {
             currentCombination.push_back(i);
+            /*for (size_t i = 0; i < currentCombination.size(); ++i) {
+                std::cout << currentCombination[i] << " ";
+            }*/
+            //std::cout << std::endl;
             generateAllCombination(n);
             currentCombination.pop_back();
         }
     }
-
 }
 
 void Bruteforce::printCombination() {

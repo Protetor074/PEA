@@ -22,6 +22,9 @@ int main()
 	std::string inputFileString(inputFile);
 	std::string outputFileString(outputFile);
 
+	Bruteforce bf;
+	bf.generateAllCombination(3);
+
 	if (mode == 0) {
 		std::cout << "Tryb: " << "Pomiarow automatycznych\n";
 		std::cout << "Liczba pomiarow: " << testNumber << std::endl;
@@ -40,6 +43,8 @@ int main()
 		KomivoyagerLocation kl;
 		kl.set(inputFileString);
 		kl.printTab();
+		std::cout << "n\n\n" << kl.tabLocation[1 - 1][2 - 1] << "\n\n";
+
 		Bruteforce bf;
 		bf.foundBestTrip(kl.size,kl.tabLocation);
 		bf.showResults();
