@@ -5,10 +5,11 @@ class Pomiar {
 	__int64 CounterStart = 0;
 
 public:
-	void test();
+	void autoTest(std::string fileName,int numberInst,int numberRepeat,int minVertex,int maxVertex);
 private:
 	void StartCounter();
 	double GetCounter();
-	void filewriter(double time_list, double time_matrix, std::string plik_name, std::string description, int density, int vertex_number);
+	void filewriter(int testNumber, int reapeatNumber, std::string description, int vertexNumber, double time, std::string plik_name);
 	void file_clear(std::string file_name);
+	
 };

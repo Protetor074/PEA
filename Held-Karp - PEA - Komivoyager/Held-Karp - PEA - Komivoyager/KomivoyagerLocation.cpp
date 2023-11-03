@@ -28,6 +28,13 @@ void KomivoyagerLocation::generate(int size, int maxValue) {
 				random = random * (-1);
 			}
 			tabLocation[i][j] = random;
+			random = rand() % maxValue;
+			if (random == 0) {
+				random = maxValue / 2;
+			}
+			else if (random < 0) {
+				random = random * (-1);
+			}
 			tabLocation[j][i] = random;
 		}
 		tabLocation[i][i] = -1;
