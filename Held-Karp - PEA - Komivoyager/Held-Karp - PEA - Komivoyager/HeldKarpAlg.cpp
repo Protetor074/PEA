@@ -17,6 +17,8 @@ int HeldKarpAlg::calculate(int** graph, int mask, int pos) {
         // Jeúli miasto i nie zosta≥o odwiedzone, odwiedü je
         if ((mask & (1 << i)) == 0) {
             int newMask = mask | (1 << i);
+            //Wywo≥anie
+            //std::cout << mask <<" - " << newMask << std::endl;
             int cost = graph[pos][i] + calculate(graph,newMask, i);
             if (cost < ans) {
                 ans = cost;

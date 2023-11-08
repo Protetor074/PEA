@@ -41,7 +41,7 @@ int main()
 	if (mode == -1) {//Testy
 		KomivoyagerLocation kl;
 		//kl.set(inputFileString);
-		kl.generate(5, 100);
+		kl.generate(4, 5);
 		kl.printTab();
 		//std::cout << "\n\n\n"<<kl.tabLocation[2][1]<<"\n\n\n";
 
