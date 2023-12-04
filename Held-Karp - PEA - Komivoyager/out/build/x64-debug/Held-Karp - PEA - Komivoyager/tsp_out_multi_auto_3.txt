@@ -1,0 +1,1 @@
+Numer pomiaru ; Numer pomiaru instancji ; Próba badawcza ; Liczba wierzcho³ków ; Czas[ms] 

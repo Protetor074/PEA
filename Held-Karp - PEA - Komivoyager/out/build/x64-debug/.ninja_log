@@ -1,17 +1,8 @@
 # ninja log v5
-3	1418	7207195039196142	Held-Karp - PEA - Komivoyager/CMakeFiles/CMakeTarget.dir/Held-Karp_-_PEA_-_Komivoyager.cpp.obj	6307e11128ca883f
-14	1740	7207192744972059	Held-Karp - PEA - Komivoyager/CMakeFiles/CMakeTarget.dir/HeldKarpAlg.cpp.obj	3e53c9db27a74455
-1366	1532	7207197315548297	Held-Karp - PEA - Komivoyager/CMakeTarget.exe	8531f73f952839a1
-6	1730	7207192744806559	Held-Karp - PEA - Komivoyager/CMakeFiles/CMakeTarget.dir/KomivoyagerLocation.cpp.obj	102220f1fe62c021
-3	1365	7207197314218490	Held-Karp - PEA - Komivoyager/CMakeFiles/CMakeTarget.dir/Mensuration.cpp.obj	dd415a0359f659b1
-4	1545	7208878434925984	Held-Karp - PEA - Komivoyager/CMakeFiles/CMakeTarget.dir/HeldKarpAlg.cpp.obj	3e53c9db27a74455
-1546	1917	7208878438056789	Held-Karp - PEA - Komivoyager/CMakeTarget.exe	8531f73f952839a1
-10	1693	7208945879648287	Held-Karp - PEA - Komivoyager/CMakeFiles/CMakeTarget.dir/HeldKarpAlg.cpp.obj	3e53c9db27a74455
-1694	1947	7208945881681311	Held-Karp - PEA - Komivoyager/CMakeTarget.exe	8531f73f952839a1
-22	1980	7210683298245867	Held-Karp - PEA - Komivoyager/CMakeFiles/CMakeTarget.dir/HeldKarpAlg.cpp.obj	3e53c9db27a74455
-2	1494	7210683372463484	Held-Karp - PEA - Komivoyager/CMakeFiles/CMakeTarget.dir/Held-Karp_-_PEA_-_Komivoyager.cpp.obj	6307e11128ca883f
-1495	1846	7210683375344251	Held-Karp - PEA - Komivoyager/CMakeTarget.exe	8531f73f952839a1
 2	1632	7210684386989540	Held-Karp - PEA - Komivoyager/CMakeFiles/CMakeTarget.dir/Held-Karp_-_PEA_-_Komivoyager.cpp.obj	6307e11128ca883f
-1633	1901	7210684389288526	Held-Karp - PEA - Komivoyager/CMakeTarget.exe	8531f73f952839a1
 2	1814	7210696441712020	Held-Karp - PEA - Komivoyager/CMakeFiles/CMakeTarget.dir/HeldKarpAlg.cpp.obj	3e53c9db27a74455
 1816	2011	7210696443120378	Held-Karp - PEA - Komivoyager/CMakeTarget.exe	8531f73f952839a1
+6	1730	7207192744806559	Held-Karp - PEA - Komivoyager/CMakeFiles/CMakeTarget.dir/KomivoyagerLocation.cpp.obj	102220f1fe62c021
+3	1365	7207197314218490	Held-Karp - PEA - Komivoyager/CMakeFiles/CMakeTarget.dir/Mensuration.cpp.obj	dd415a0359f659b1
+2	1598	7211819435626711	Held-Karp - PEA - Komivoyager/CMakeFiles/CMakeTarget.dir/HeldKarpAlg.cpp.obj	3e53c9db27a74455
+1598	1965	7211819438711929	Held-Karp - PEA - Komivoyager/CMakeTarget.exe	8531f73f952839a1
