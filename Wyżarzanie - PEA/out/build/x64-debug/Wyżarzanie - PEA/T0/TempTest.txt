@@ -1,0 +1,2972 @@
+Plik;Tryb Temperatury;Index;TemperaturaPocz¹tkowa;Koszt pocz¹tkowy;Koszt Geo;Koszt Boltzmana;Liczba stopni Geo; Liczba stopni Boltzman;AVG
+br17.txt;T0-Maksymalna ró¿nica;1;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;2;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;3;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;4;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;5;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;6;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;7;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;8;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;9;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;10;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;11;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;12;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;13;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;14;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;15;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;16;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;17;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;18;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;19;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;20;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;21;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;22;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;23;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;24;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;25;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;26;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;27;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;28;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;29;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;30;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;31;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;32;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;33;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;34;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;35;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;36;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;37;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;38;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;39;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;40;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;41;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;42;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;43;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;44;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;45;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;46;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;47;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;48;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;49;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;50;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;51;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;52;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;53;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;54;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;55;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;56;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;57;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;58;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;59;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;60;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;61;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;62;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;63;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;64;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;65;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;66;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;67;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;68;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;69;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;70;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;71;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;72;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;73;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;74;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;75;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;76;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;77;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;78;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;79;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;80;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;81;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;82;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;83;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;84;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;85;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;86;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;87;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;88;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;89;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;90;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;91;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;92;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;93;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;94;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;95;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;96;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;97;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;98;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;99;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;100;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;101;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;102;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;103;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;104;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;105;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;106;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;107;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;108;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;109;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;110;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;111;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;112;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;113;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;114;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;115;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;116;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;117;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;118;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;119;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;120;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;121;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;122;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;123;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;124;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;125;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;126;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;127;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;128;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;129;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;130;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;131;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;132;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;133;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;134;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;135;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;136;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;137;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;138;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;139;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;140;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;141;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;142;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;143;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;144;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;145;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;146;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;147;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;148;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;149;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;150;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;151;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;152;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;153;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;154;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;155;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;156;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;157;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;158;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;159;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;160;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;161;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;162;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;163;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;164;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;165;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;166;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;167;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;168;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;169;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;170;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;171;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;172;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;173;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;174;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;175;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;176;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;177;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;178;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;179;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;180;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;181;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;182;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;183;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;184;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;185;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;186;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;187;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;188;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;189;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;190;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;191;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;192;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;193;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;194;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;195;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;196;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;197;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;198;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;199;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;200;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;201;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;202;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;203;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;204;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;205;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;206;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;207;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;208;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;209;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;210;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;211;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;212;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;213;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;214;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;215;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;216;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;217;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;218;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;219;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;220;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;221;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;222;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;223;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;224;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;225;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;226;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;227;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;228;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;229;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;230;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;231;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;232;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;233;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;234;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;235;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;236;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;237;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;238;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;239;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;240;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;241;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;242;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;243;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;244;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;245;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;246;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;247;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;248;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;249;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;250;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;251;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;252;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;253;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;254;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;255;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;256;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;257;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;258;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;259;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;260;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;261;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;262;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;263;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;264;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;265;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;266;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;267;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;268;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;269;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;270;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;271;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;272;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;273;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;274;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;275;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;276;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;277;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;278;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;279;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;280;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;281;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;282;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;283;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;284;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;285;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;286;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;287;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;288;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;289;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;290;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;291;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;292;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;293;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;294;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;295;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;296;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;297;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;298;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;299;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;300;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;301;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;302;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;303;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;304;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;305;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;306;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;307;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;308;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;309;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;310;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;311;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;312;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;313;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;314;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;315;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;316;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;317;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;318;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;319;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;320;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;321;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;322;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;323;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;324;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;325;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;326;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;327;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;328;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;329;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;330;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;331;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;332;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;333;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;334;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;335;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;336;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;337;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;338;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;339;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;340;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;341;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;342;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;343;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;344;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;345;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;346;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;347;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;348;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;349;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;350;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;351;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;352;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;353;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;354;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;355;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;356;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;357;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;358;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;359;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;360;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;361;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;362;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;363;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;364;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;365;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;366;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;367;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;368;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;369;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;370;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;371;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;372;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;373;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;374;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;375;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;376;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;377;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;378;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;379;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;380;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;381;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;382;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;383;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;384;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;385;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;386;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;387;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;388;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;389;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;390;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;391;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;392;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;393;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;394;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;395;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;396;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;397;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;398;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;399;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;400;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;401;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;402;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;403;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;404;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;405;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;406;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;407;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;408;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;409;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;410;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;411;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;412;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;413;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;414;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;415;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;416;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;417;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;418;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;419;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;420;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;421;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;422;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;423;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;424;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;425;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;426;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;427;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;428;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;429;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;430;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;431;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;432;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;433;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;434;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;435;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;436;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;437;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;438;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;439;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;440;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;441;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;442;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;443;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;444;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;445;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;446;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;447;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;448;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;449;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;450;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;451;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;452;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;453;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;454;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;455;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;456;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;457;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;458;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;459;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;460;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;461;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;462;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;463;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;464;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;465;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;466;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;467;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;468;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;469;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;470;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;471;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;472;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;473;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;474;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;475;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;476;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;477;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;478;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;479;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;480;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;481;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;482;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;483;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;484;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;485;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;486;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;487;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;488;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;489;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;490;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;491;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;492;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;493;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;494;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;495;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;496;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;497;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;498;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;499;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;500;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;501;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;502;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;503;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;504;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;505;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;506;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;507;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;508;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;509;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;510;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;511;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;512;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;513;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;514;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;515;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;516;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;517;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;518;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;519;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;520;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;521;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;522;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;523;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;524;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;525;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;526;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;527;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;528;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;529;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;530;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;531;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;532;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;533;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;534;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;535;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;536;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;537;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;538;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;539;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;540;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;541;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;542;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;543;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;544;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;545;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;546;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;547;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;548;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;549;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;550;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;551;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;552;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;553;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;554;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;555;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;556;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;557;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;558;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;559;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;560;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;561;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;562;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;563;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;564;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;565;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;566;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;567;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;568;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;569;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;570;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;571;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;572;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;573;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;574;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;575;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;576;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;577;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;578;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;579;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;580;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;581;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;582;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;583;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;584;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;585;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;586;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;587;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;588;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;589;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;590;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;591;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;592;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;593;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;594;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;595;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;596;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;597;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;598;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;599;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;600;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;601;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;602;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;603;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;604;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;605;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;606;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;607;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;608;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;609;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;610;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;611;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;612;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;613;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;614;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;615;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;616;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;617;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;618;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;619;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;620;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;621;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;622;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;623;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;624;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;625;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;626;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;627;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;628;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;629;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;630;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;631;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;632;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;633;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;634;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;635;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;636;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;637;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;638;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;639;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;640;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;641;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;642;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;643;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;644;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;645;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;646;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;647;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;648;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;649;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;650;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;651;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;652;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;653;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;654;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;655;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;656;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;657;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;658;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;659;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;660;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;661;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;662;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;663;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;664;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;665;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;666;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;667;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;668;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;669;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;670;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;671;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;672;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;673;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;674;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;675;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;676;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;677;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;678;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;679;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;680;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;681;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;682;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;683;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;684;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;685;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;686;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;687;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;688;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;689;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;690;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;691;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;692;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;693;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;694;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;695;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;696;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;697;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;698;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;699;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;700;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;701;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;702;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;703;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;704;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;705;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;706;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;707;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;708;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;709;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;710;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;711;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;712;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;713;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;714;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;715;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;716;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;717;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;718;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;719;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;720;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;721;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;722;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;723;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;724;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;725;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;726;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;727;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;728;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;729;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;730;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;731;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;732;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;733;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;734;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;735;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;736;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;737;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;738;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;739;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;740;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;741;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;742;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;743;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;744;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;745;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;746;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;747;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;748;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;749;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;750;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;751;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;752;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;753;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;754;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;755;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;756;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;757;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;758;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;759;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;760;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;761;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;762;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;763;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;764;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;765;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;766;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;767;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;768;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;769;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;770;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;771;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;772;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;773;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;774;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;775;74;324;44;86;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;776;74;324;44;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;777;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;778;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;779;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;780;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;781;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;782;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;783;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;784;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;785;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;786;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;787;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;788;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;789;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;790;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;791;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;792;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;793;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;794;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;795;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;796;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;797;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;798;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;799;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;800;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;801;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;802;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;803;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;804;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;805;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;806;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;807;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;808;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;809;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;810;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;811;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;812;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;813;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;814;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;815;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;816;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;817;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;818;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;819;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;820;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;821;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;822;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;823;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;824;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;825;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;826;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;827;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;828;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;829;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;830;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;831;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;832;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;833;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;834;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;835;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;836;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;837;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;838;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;839;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;840;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;841;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;842;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;843;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;844;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;845;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;846;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;847;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;848;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;849;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;850;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;851;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;852;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;853;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;854;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;855;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;856;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;857;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;858;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;859;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;860;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;861;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;862;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;863;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;864;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;865;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;866;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;867;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;868;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;869;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;870;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;871;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;872;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;873;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;874;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;875;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;876;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;877;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;878;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;879;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;880;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;881;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;882;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;883;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;884;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;885;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;886;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;887;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;888;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;889;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;890;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;891;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;892;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;893;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;894;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;895;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;896;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;897;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;898;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;899;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;900;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;901;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;902;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;903;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;904;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;905;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;906;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;907;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;908;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;909;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;910;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;911;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;912;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;913;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;914;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;915;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;916;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;917;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;918;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;919;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;920;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;921;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;922;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;923;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;924;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;925;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;926;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;927;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;928;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;929;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;930;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;931;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;932;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;933;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;934;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;935;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;936;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;937;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;938;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;939;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;940;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;941;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;942;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;943;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;944;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;945;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;946;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;947;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;948;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;949;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;950;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;951;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;952;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;953;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;954;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;955;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;956;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;957;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;958;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;959;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;960;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;961;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;962;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;963;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;964;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;965;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;966;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;967;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;968;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;969;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;970;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;971;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;972;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;973;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;974;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;975;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;976;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;977;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;978;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;979;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;980;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;981;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;982;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;983;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;984;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;985;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;986;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;987;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;988;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;989;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;990;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;991;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;992;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;993;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;994;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;995;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;996;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;997;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;998;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;999;74;324;40;116;4;10;0.0
+br17.txt;T0-Maksymalna ró¿nica;1000;74;324;40;116;4;10;0.0
+br17.txt;T0-AVG;1;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;2;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;3;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;4;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;5;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;6;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;7;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;8;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;9;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;10;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;11;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;12;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;13;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;14;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;15;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;16;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;17;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;18;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;19;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;20;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;21;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;22;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;23;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;24;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;25;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;26;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;27;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;28;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;29;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;30;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;31;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;32;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;33;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;34;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;35;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;36;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;37;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;38;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;39;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;40;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;41;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;42;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;43;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;44;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;45;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;46;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;47;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;48;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;49;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;50;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;51;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;52;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;53;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;54;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;55;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;56;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;57;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;58;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;59;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;60;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;61;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;62;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;63;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;64;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;65;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;66;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;67;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;68;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;69;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;70;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;71;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;72;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;73;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;74;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;75;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;76;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;77;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;78;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;79;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;80;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;81;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;82;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;83;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;84;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;85;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;86;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;87;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;88;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;89;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;90;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;91;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;92;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;93;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;94;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;95;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;96;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;97;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;98;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;99;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;100;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;101;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;102;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;103;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;104;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;105;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;106;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;107;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;108;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;109;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;110;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;111;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;112;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;113;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;114;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;115;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;116;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;117;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;118;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;119;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;120;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;121;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;122;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;123;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;124;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;125;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;126;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;127;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;128;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;129;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;130;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;131;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;132;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;133;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;134;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;135;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;136;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;137;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;138;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;139;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;140;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;141;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;142;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;143;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;144;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;145;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;146;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;147;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;148;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;149;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;150;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;151;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;152;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;153;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;154;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;155;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;156;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;157;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;158;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;159;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;160;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;161;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;162;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;163;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;164;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;165;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;166;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;167;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;168;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;169;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;170;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;171;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;172;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;173;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;174;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;175;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;176;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;177;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;178;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;179;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;180;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;181;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;182;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;183;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;184;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;185;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;186;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;187;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;188;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;189;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;190;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;191;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;192;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;193;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;194;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;195;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;196;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;197;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;198;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;199;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;200;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;201;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;202;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;203;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;204;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;205;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;206;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;207;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;208;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;209;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;210;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;211;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;212;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;213;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;214;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;215;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;216;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;217;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;218;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;219;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;220;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;221;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;222;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;223;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;224;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;225;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;226;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;227;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;228;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;229;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;230;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;231;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;232;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;233;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;234;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;235;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;236;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;237;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;238;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;239;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;240;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;241;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;242;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;243;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;244;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;245;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;246;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;247;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;248;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;249;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;250;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;251;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;252;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;253;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;254;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;255;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;256;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;257;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;258;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;259;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;260;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;261;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;262;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;263;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;264;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;265;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;266;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;267;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;268;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;269;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;270;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;271;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;272;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;273;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;274;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;275;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;276;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;277;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;278;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;279;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;280;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;281;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;282;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;283;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;284;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;285;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;286;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;287;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;288;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;289;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;290;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;291;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;292;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;293;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;294;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;295;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;296;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;297;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;298;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;299;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;300;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;301;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;302;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;303;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;304;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;305;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;306;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;307;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;308;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;309;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;310;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;311;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;312;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;313;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;314;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;315;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;316;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;317;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;318;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;319;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;320;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;321;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;322;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;323;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;324;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;325;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;326;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;327;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;328;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;329;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;330;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;331;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;332;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;333;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;334;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;335;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;336;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;337;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;338;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;339;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;340;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;341;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;342;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;343;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;344;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;345;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;346;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;347;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;348;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;349;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;350;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;351;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;352;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;353;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;354;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;355;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;356;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;357;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;358;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;359;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;360;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;361;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;362;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;363;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;364;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;365;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;366;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;367;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;368;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;369;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;370;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;371;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;372;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;373;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;374;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;375;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;376;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;377;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;378;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;379;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;380;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;381;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;382;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;383;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;384;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;385;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;386;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;387;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;388;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;389;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;390;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;391;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;392;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;393;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;394;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;395;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;396;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;397;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;398;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;399;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;400;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;401;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;402;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;403;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;404;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;405;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;406;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;407;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;408;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;409;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;410;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;411;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;412;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;413;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;414;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;415;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;416;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;417;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;418;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;419;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;420;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;421;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;422;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;423;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;424;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;425;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;426;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;427;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;428;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;429;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;430;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;431;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;432;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;433;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;434;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;435;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;436;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;437;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;438;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;439;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;440;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;441;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;442;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;443;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;444;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;445;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;446;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;447;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;448;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;449;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;450;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;451;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;452;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;453;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;454;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;455;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;456;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;457;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;458;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;459;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;460;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;461;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;462;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;463;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;464;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;465;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;466;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;467;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;468;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;469;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;470;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;471;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;472;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;473;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;474;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;475;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;476;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;477;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;478;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;479;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;480;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;481;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;482;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;483;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;484;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;485;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;486;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;487;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;488;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;489;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;490;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;491;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;492;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;493;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;494;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;495;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;496;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;497;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;498;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;499;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;500;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;501;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;502;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;503;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;504;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;505;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;506;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;507;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;508;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;509;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;510;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;511;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;512;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;513;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;514;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;515;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;516;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;517;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;518;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;519;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;520;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;521;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;522;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;523;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;524;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;525;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;526;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;527;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;528;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;529;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;530;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;531;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;532;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;533;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;534;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;535;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;536;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;537;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;538;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;539;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;540;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;541;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;542;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;543;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;544;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;545;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;546;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;547;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;548;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;549;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;550;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;551;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;552;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;553;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;554;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;555;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;556;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;557;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;558;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;559;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;560;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;561;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;562;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;563;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;564;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;565;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;566;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;567;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;568;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;569;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;570;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;571;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;572;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;573;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;574;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;575;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;576;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;577;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;578;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;579;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;580;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;581;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;582;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;583;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;584;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;585;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;586;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;587;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;588;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;589;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;590;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;591;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;592;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;593;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;594;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;595;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;596;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;597;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;598;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;599;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;600;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;601;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;602;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;603;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;604;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;605;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;606;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;607;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;608;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;609;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;610;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;611;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;612;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;613;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;614;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;615;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;616;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;617;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;618;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;619;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;620;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;621;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;622;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;623;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;624;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;625;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;626;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;627;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;628;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;629;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;630;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;631;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;632;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;633;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;634;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;635;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;636;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;637;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;638;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;639;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;640;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;641;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;642;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;643;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;644;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;645;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;646;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;647;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;648;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;649;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;650;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;651;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;652;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;653;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;654;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;655;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;656;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;657;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;658;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;659;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;660;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;661;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;662;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;663;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;664;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;665;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;666;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;667;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;668;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;669;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;670;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;671;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;672;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;673;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;674;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;675;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;676;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;677;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;678;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;679;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;680;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;681;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;682;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;683;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;684;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;685;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;686;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;687;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;688;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;689;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;690;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;691;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;692;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;693;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;694;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;695;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;696;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;697;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;698;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;699;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;700;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;701;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;702;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;703;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;704;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;705;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;706;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;707;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;708;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;709;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;710;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;711;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;712;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;713;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;714;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;715;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;716;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;717;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;718;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;719;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;720;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;721;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;722;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;723;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;724;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;725;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;726;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;727;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;728;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;729;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;730;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;731;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;732;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;733;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;734;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;735;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;736;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;737;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;738;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;739;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;740;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;741;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;742;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;743;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;744;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;745;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;746;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;747;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;748;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;749;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;750;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;751;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;752;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;753;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;754;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;755;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;756;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;757;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;758;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;759;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;760;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;761;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;762;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;763;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;764;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;765;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;766;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;767;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;768;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;769;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;770;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;771;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;772;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;773;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;774;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;775;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;776;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;777;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;778;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;779;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;780;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;781;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;782;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;783;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;784;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;785;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;786;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;787;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;788;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;789;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;790;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;791;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;792;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;793;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;794;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;795;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;796;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;797;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;798;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;799;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;800;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;801;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;802;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;803;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;804;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;805;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;806;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;807;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;808;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;809;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;810;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;811;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;812;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;813;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;814;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;815;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;816;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;817;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;818;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;819;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;820;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;821;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;822;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;823;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;824;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;825;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;826;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;827;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;828;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;829;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;830;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;831;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;832;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;833;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;834;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;835;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;836;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;837;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;838;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;839;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;840;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;841;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;842;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;843;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;844;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;845;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;846;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;847;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;848;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;849;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;850;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;851;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;852;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;853;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;854;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;855;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;856;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;857;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;858;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;859;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;860;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;861;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;862;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;863;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;864;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;865;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;866;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;867;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;868;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;869;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;870;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;871;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;872;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;873;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;874;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;875;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;876;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;877;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;878;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;879;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;880;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;881;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;882;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;883;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;884;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;885;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;886;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;887;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;888;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;889;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;890;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;891;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;892;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;893;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;894;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;895;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;896;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;897;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;898;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;899;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;900;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;901;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;902;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;903;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;904;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;905;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;906;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;907;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;908;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;909;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;910;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;911;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;912;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;913;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;914;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;915;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;916;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;917;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;918;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;919;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;920;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;921;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;922;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;923;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;924;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;925;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;926;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;927;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;928;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;929;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;930;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;931;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;932;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;933;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;934;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;935;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;936;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;937;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;938;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;939;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;940;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;941;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;942;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;943;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;944;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;945;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;946;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;947;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;948;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;949;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;950;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;951;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;952;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;953;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;954;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;955;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;956;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;957;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;958;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;959;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;960;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;961;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;962;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;963;16;324;44;112;3;8;0.100000
+br17.txt;T0-AVG;964;16;324;44;116;3;8;0.100000
+br17.txt;T0-AVG;965;15;324;57;116;3;8;0.100000
+br17.txt;T0-AVG;966;15;324;57;116;3;8;0.100000
+br17.txt;T0-AVG;967;15;324;57;116;3;8;0.100000
+br17.txt;T0-AVG;968;15;324;57;116;3;8;0.100000
+br17.txt;T0-AVG;969;15;324;57;116;3;8;0.100000
+br17.txt;T0-AVG;970;15;324;57;116;3;8;0.100000
+br17.txt;T0-AVG;971;15;324;57;116;3;8;0.100000
+br17.txt;T0-AVG;972;15;324;57;116;3;8;0.100000
+br17.txt;T0-AVG;973;15;324;57;116;3;8;0.100000
+br17.txt;T0-AVG;974;15;324;57;116;3;8;0.100000
+br17.txt;T0-AVG;975;15;324;57;116;3;8;0.100000
+br17.txt;T0-AVG;976;15;324;57;116;3;8;0.100000
+br17.txt;T0-AVG;977;15;324;57;116;3;8;0.100000
+br17.txt;T0-AVG;978;15;324;57;116;3;8;0.100000
+br17.txt;T0-AVG;979;15;324;57;116;3;8;0.100000
+br17.txt;T0-AVG;980;15;324;57;116;3;8;0.100000
+br17.txt;T0-AVG;981;15;324;57;116;3;8;0.100000
+br17.txt;T0-AVG;982;15;324;57;116;3;8;0.100000
+br17.txt;T0-AVG;983;15;324;57;116;3;8;0.100000
+br17.txt;T0-AVG;984;15;324;57;116;3;8;0.100000
+br17.txt;T0-AVG;985;15;324;57;116;3;8;0.100000
+br17.txt;T0-AVG;986;15;324;57;116;3;8;0.100000
+br17.txt;T0-AVG;987;15;324;57;116;3;8;0.100000
+br17.txt;T0-AVG;988;15;324;57;116;3;8;0.100000
+br17.txt;T0-AVG;989;15;324;57;116;3;8;0.100000
+br17.txt;T0-AVG;990;15;324;57;116;3;8;0.100000
+br17.txt;T0-AVG;991;15;324;57;116;3;8;0.100000
+br17.txt;T0-AVG;992;15;324;57;116;3;8;0.100000
+br17.txt;T0-AVG;993;15;324;57;116;3;8;0.100000
+br17.txt;T0-AVG;994;15;324;57;116;3;8;0.100000
+br17.txt;T0-AVG;995;15;324;57;116;3;8;0.100000
+br17.txt;T0-AVG;996;15;324;57;116;3;8;0.100000
+br17.txt;T0-AVG;997;15;324;57;116;3;8;0.100000
+br17.txt;T0-AVG;998;15;324;57;116;3;8;0.100000
+br17.txt;T0-AVG;999;15;324;57;116;3;8;0.100000
+br17.txt;T0-AVG;1000;15;324;57;116;3;8;0.100000
+br17.txt;T0-AVG;1;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;2;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;3;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;4;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;5;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;6;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;7;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;8;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;9;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;10;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;11;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;12;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;13;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;14;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;15;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;16;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;17;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;18;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;19;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;20;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;21;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;22;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;23;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;24;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;25;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;26;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;27;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;28;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;29;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;30;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;31;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;32;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;33;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;34;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;35;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;36;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;37;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;38;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;39;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;40;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;41;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;42;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;43;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;44;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;45;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;46;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;47;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;48;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;49;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;50;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;51;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;52;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;53;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;54;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;55;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;56;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;57;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;58;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;59;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;60;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;61;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;62;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;63;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;64;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;65;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;66;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;67;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;68;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;69;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;70;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;71;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;72;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;73;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;74;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;75;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;76;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;77;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;78;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;79;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;80;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;81;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;82;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;83;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;84;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;85;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;86;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;87;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;88;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;89;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;90;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;91;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;92;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;93;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;94;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;95;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;96;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;97;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;98;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;99;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;100;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;101;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;102;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;103;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;104;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;105;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;106;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;107;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;108;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;109;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;110;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;111;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;112;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;113;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;114;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;115;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;116;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;117;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;118;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;119;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;120;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;121;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;122;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;123;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;124;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;125;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;126;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;127;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;128;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;129;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;130;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;131;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;132;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;133;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;134;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;135;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;136;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;137;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;138;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;139;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;140;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;141;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;142;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;143;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;144;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;145;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;146;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;147;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;148;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;149;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;150;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;151;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;152;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;153;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;154;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;155;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;156;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;157;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;158;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;159;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;160;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;161;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;162;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;163;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;164;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;165;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;166;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;167;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;168;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;169;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;170;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;171;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;172;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;173;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;174;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;175;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;176;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;177;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;178;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;179;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;180;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;181;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;182;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;183;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;184;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;185;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;186;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;187;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;188;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;189;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;190;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;191;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;192;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;193;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;194;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;195;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;196;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;197;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;198;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;199;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;200;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;201;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;202;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;203;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;204;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;205;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;206;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;207;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;208;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;209;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;210;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;211;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;212;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;213;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;214;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;215;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;216;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;217;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;218;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;219;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;220;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;221;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;222;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;223;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;224;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;225;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;226;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;227;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;228;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;229;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;230;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;231;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;232;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;233;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;234;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;235;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;236;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;237;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;238;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;239;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;240;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;241;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;242;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;243;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;244;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;245;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;246;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;247;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;248;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;249;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;250;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;251;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;252;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;253;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;254;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;255;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;256;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;257;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;258;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;259;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;260;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;261;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;262;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;263;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;264;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;265;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;266;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;267;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;268;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;269;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;270;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;271;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;272;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;273;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;274;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;275;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;276;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;277;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;278;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;279;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;280;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;281;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;282;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;283;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;284;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;285;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;286;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;287;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;288;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;289;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;290;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;291;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;292;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;293;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;294;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;295;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;296;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;297;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;298;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;299;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;300;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;301;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;302;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;303;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;304;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;305;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;306;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;307;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;308;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;309;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;310;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;311;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;312;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;313;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;314;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;315;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;316;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;317;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;318;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;319;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;320;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;321;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;322;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;323;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;324;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;325;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;326;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;327;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;328;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;329;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;330;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;331;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;332;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;333;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;334;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;335;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;336;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;337;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;338;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;339;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;340;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;341;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;342;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;343;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;344;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;345;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;346;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;347;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;348;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;349;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;350;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;351;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;352;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;353;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;354;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;355;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;356;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;357;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;358;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;359;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;360;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;361;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;362;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;363;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;364;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;365;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;366;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;367;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;368;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;369;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;370;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;371;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;372;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;373;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;374;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;375;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;376;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;377;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;378;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;379;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;380;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;381;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;382;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;383;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;384;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;385;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;386;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;387;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;388;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;389;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;390;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;391;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;392;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;393;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;394;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;395;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;396;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;397;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;398;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;399;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;400;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;401;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;402;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;403;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;404;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;405;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;406;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;407;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;408;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;409;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;410;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;411;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;412;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;413;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;414;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;415;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;416;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;417;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;418;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;419;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;420;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;421;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;422;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;423;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;424;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;425;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;426;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;427;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;428;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;429;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;430;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;431;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;432;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;433;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;434;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;435;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;436;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;437;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;438;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;439;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;440;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;441;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;442;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;443;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;444;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;445;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;446;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;447;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;448;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;449;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;450;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;451;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;452;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;453;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;454;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;455;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;456;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;457;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;458;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;459;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;460;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;461;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;462;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;463;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;464;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;465;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;466;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;467;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;468;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;469;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;470;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;471;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;472;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;473;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;474;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;475;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;476;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;477;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;478;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;479;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;480;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;481;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;482;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;483;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;484;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;485;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;486;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;487;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;488;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;489;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;490;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;491;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;492;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;493;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;494;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;495;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;496;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;497;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;498;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;499;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;500;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;501;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;502;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;503;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;504;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;505;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;506;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;507;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;508;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;509;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;510;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;511;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;512;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;513;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;514;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;515;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;516;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;517;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;518;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;519;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;520;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;521;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;522;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;523;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;524;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;525;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;526;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;527;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;528;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;529;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;530;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;531;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;532;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;533;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;534;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;535;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;536;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;537;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;538;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;539;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;540;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;541;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;542;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;543;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;544;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;545;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;546;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;547;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;548;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;549;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;550;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;551;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;552;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;553;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;554;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;555;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;556;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;557;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;558;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;559;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;560;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;561;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;562;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;563;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;564;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;565;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;566;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;567;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;568;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;569;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;570;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;571;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;572;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;573;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;574;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;575;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;576;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;577;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;578;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;579;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;580;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;581;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;582;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;583;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;584;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;585;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;586;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;587;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;588;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;589;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;590;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;591;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;592;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;593;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;594;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;595;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;596;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;597;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;598;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;599;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;600;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;601;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;602;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;603;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;604;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;605;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;606;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;607;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;608;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;609;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;610;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;611;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;612;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;613;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;614;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;615;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;616;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;617;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;618;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;619;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;620;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;621;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;622;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;623;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;624;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;625;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;626;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;627;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;628;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;629;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;630;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;631;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;632;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;633;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;634;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;635;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;636;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;637;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;638;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;639;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;640;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;641;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;642;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;643;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;644;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;645;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;646;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;647;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;648;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;649;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;650;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;651;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;652;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;653;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;654;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;655;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;656;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;657;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;658;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;659;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;660;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;661;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;662;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;663;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;664;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;665;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;666;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;667;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;668;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;669;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;670;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;671;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;672;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;673;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;674;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;675;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;676;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;677;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;678;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;679;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;680;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;681;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;682;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;683;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;684;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;685;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;686;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;687;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;688;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;689;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;690;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;691;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;692;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;693;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;694;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;695;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;696;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;697;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;698;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;699;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;700;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;701;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;702;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;703;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;704;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;705;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;706;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;707;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;708;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;709;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;710;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;711;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;712;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;713;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;714;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;715;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;716;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;717;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;718;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;719;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;720;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;721;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;722;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;723;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;724;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;725;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;726;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;727;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;728;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;729;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;730;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;731;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;732;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;733;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;734;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;735;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;736;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;737;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;738;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;739;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;740;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;741;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;742;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;743;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;744;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;745;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;746;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;747;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;748;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;749;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;750;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;751;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;752;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;753;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;754;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;755;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;756;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;757;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;758;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;759;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;760;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;761;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;762;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;763;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;764;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;765;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;766;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;767;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;768;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;769;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;770;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;771;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;772;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;773;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;774;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;775;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;776;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;777;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;778;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;779;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;780;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;781;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;782;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;783;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;784;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;785;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;786;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;787;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;788;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;789;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;790;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;791;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;792;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;793;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;794;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;795;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;796;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;797;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;798;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;799;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;800;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;801;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;802;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;803;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;804;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;805;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;806;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;807;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;808;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;809;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;810;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;811;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;812;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;813;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;814;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;815;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;816;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;817;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;818;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;819;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;820;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;821;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;822;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;823;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;824;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;825;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;826;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;827;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;828;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;829;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;830;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;831;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;832;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;833;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;834;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;835;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;836;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;837;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;838;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;839;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;840;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;841;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;842;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;843;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;844;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;845;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;846;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;847;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;848;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;849;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;850;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;851;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;852;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;853;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;854;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;855;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;856;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;857;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;858;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;859;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;860;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;861;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;862;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;863;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;864;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;865;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;866;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;867;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;868;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;869;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;870;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;871;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;872;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;873;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;874;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;875;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;876;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;877;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;878;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;879;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;880;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;881;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;882;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;883;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;884;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;885;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;886;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;887;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;888;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;889;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;890;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;891;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;892;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;893;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;894;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;895;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;896;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;897;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;898;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;899;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;900;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;901;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;902;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;903;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;904;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;905;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;906;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;907;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;908;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;909;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;910;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;911;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;912;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;913;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;914;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;915;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;916;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;917;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;918;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;919;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;920;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;921;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;922;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;923;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;924;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;925;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;926;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;927;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;928;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;929;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;930;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;931;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;932;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;933;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;934;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;935;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;936;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;937;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;938;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;939;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;940;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;941;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;942;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;943;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;944;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;945;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;946;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;947;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;948;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;949;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;950;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;951;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;952;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;953;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;954;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;955;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;956;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;957;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;958;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;959;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;960;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;961;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;962;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;963;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;964;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;965;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;966;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;967;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;968;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;969;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;970;16;324;57;116;3;8;0.200000
+br17.txt;T0-AVG;971;16;324;57;116;3;8;0.200000

@@ -1,0 +1,4 @@
+Wielkoœæ instancji;Numer Pomiaru;Zakres Wartoœci;Czas Geo;Czas Boltzman
+3000;0;1-10;7696.012100
+3000;0;11-10 000;8770.700800
+3000;0;10 001-10 000 000;8724.383900

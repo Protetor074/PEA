@@ -1,0 +1,10 @@
+# ninja log v5
+4	1340	7259203645612646	CMakeFiles/CMakeTarget.dir/Genetic_algorithm_-_PEA.cpp.obj	d88da8f7220497ef
+1340	1704	7259203648895966	CMakeTarget.exe	4f6c8a674b1c1d67
+2	1638	7259206384223447	CMakeFiles/CMakeTarget.dir/Genetic_algorithm_-_PEA.cpp.obj	d88da8f7220497ef
+16	1718	7259206385002536	CMakeFiles/CMakeTarget.dir/KomivoyagerLocation.cpp.obj	d72e70a45cf08eab
+26	1749	7259206385352514	CMakeFiles/CMakeTarget.dir/Mensuration.cpp.obj	602ef38f73f2b23b
+6	1887	7259206386713041	CMakeFiles/CMakeTarget.dir/GenAlg.cpp.obj	960f0dcfb261120b
+1888	2147	7259206388912714	CMakeTarget.exe	a22514d1ecd84aa7
+2	1286	7259206459618450	CMakeFiles/CMakeTarget.dir/Genetic_algorithm_-_PEA.cpp.obj	d88da8f7220497ef
+1289	1453	7259206460908596	CMakeTarget.exe	a22514d1ecd84aa7
