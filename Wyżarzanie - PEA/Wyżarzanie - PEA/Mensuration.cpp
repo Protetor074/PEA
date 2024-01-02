@@ -3,6 +3,7 @@
 #include <cstdlib>
 #include <fstream>
 
+<<<<<<< HEAD
 
 #include <sys/stat.h>
 
@@ -18,12 +19,29 @@ void Pomiar::file_clear(std::string plik_name,std::string initText) {
 }
 
 void Pomiar::filewriter(std::string plik_name, std::string text) {
+=======
+#include "Wy¿arzanie - PEA.h"
+
+
+void Pomiar::file_clear(std::string plik_name) {
+	std::fstream plik;
+	plik.open(plik_name, std::ios::out);
+	plik << "Numer pomiaru ; Numer pomiaru instancji ; Próba badawcza ; Liczba wierzcho³ków ; Czas[ms] " << std::endl;
+	plik.close();
+}
+
+void Pomiar::filewriter(int testNumber, int reapeatNumber, std::string description, int vertexNumber, double time, std::string plik_name) {
+>>>>>>> 90e5141f80991f1b1268c09fab77eafdbfe6eea1
 	std::fstream plik;
 	int liczba;
 
 	plik.open(plik_name, std::ios::app);
 
+<<<<<<< HEAD
 	plik << text << std::endl;
+=======
+	plik << testNumber << ";" << reapeatNumber << ";" << description << ";" << vertexNumber << ";" << time << std::endl;
+>>>>>>> 90e5141f80991f1b1268c09fab77eafdbfe6eea1
 	plik.close();
 }
 
@@ -46,6 +64,7 @@ double Pomiar::GetCounter()
 	return double(li.QuadPart - CounterStart) / PCFreq;
 }
 
+<<<<<<< HEAD
 long Pomiar::getMemory()
 {
 	MEMORYSTATUSEX statex;
@@ -65,11 +84,17 @@ long Pomiar::getMemory()
 }
 
 void Pomiar::autoTest() {
+=======
+void Pomiar::autoTest(std::string fileName, int numberInst, int numberRepeat, int minVertex, int maxVertex) {
+
+	int vertexNumber = minVertex;
+>>>>>>> 90e5141f80991f1b1268c09fab77eafdbfe6eea1
 	KomivoyagerLocation kl;
 	//HeldKarpAlg hka;
 	double timeStart = 0;
 	double timeEnd = 0;
 
+<<<<<<< HEAD
 	int startCost = 0;
 	int boltzmanCost = 0;
 	int geoCost = 0;
@@ -812,3 +837,51 @@ void Pomiar::autoTest2() {
 		}
 	}
 	
+=======
+	file_clear(fileName);
+	StartCounter();
+
+	while (vertexNumber <= maxVertex) {
+
+		for (int i = 0; i < numberInst; i++) {
+
+			std::cout << "Pomiar dla liczby wierzcholkow = " << vertexNumber << " Dla instancji = " << i << std::endl;
+
+			kl.generate(vertexNumber, 0, 10,true);
+
+			StartCounter();
+			for (int j = 0; j < numberRepeat; j++) {
+				timeStart = GetCounter();
+				//hka.init(kl.tabLocation, kl.size);
+				timeEnd = GetCounter();
+
+				filewriter(i + 1, j + 1, "1 do 10", vertexNumber, timeEnd - timeStart, fileName);
+			}
+
+			kl.generate(vertexNumber,11, 10000,true);
+
+			StartCounter();
+			for (int j = 0; j < numberRepeat; j++) {
+				timeStart = GetCounter();
+				//hka.init(kl.tabLocation, kl.size);
+				timeEnd = GetCounter();
+
+				filewriter(i + 1, j + 1, "1 do 10 000", vertexNumber, timeEnd - timeStart, fileName);
+			}
+
+			kl.generate(vertexNumber,10001, 10000000,true);
+
+			StartCounter();
+			for (int j = 0; j < numberRepeat; j++) {
+				timeStart = GetCounter();
+				//hka.init(kl.tabLocation, kl.size);
+				timeEnd = GetCounter();
+
+				filewriter(i + 1, j + 1, "1 do 10 000 000", vertexNumber, timeEnd - timeStart, fileName);
+			}
+		}
+
+		vertexNumber++;
+	}
+}
+>>>>>>> 90e5141f80991f1b1268c09fab77eafdbfe6eea1

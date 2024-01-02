@@ -1,4 +1,5 @@
 # ninja log v5
+<<<<<<< HEAD
 3	1667	7244513427457411	Wyżarzanie - PEA/CMakeFiles/CMakeTarget.dir/Wyżarzanie_-_PEA.cpp.obj	c966e4675dd6b178
 1312	1476	7245016783652333	Wyżarzanie - PEA/CMakeTarget.exe	866d082da245bda0
 7	1500	7244493470785933	Wyżarzanie - PEA/CMakeFiles/CMakeTarget.dir/KomivoyagerLocation.cpp.obj	bf16cbc2fdb3b5cf
@@ -61,3 +62,14 @@
 1692	2081	7246225573117225	Wyżarzanie - PEA/CMakeTarget.exe	866d082da245bda0
 3	1567	7246241514408682	Wyżarzanie - PEA/CMakeFiles/CMakeTarget.dir/Mensuration.cpp.obj	8f8622f03903c60b
 1567	1825	7246241516372909	Wyżarzanie - PEA/CMakeTarget.exe	866d082da245bda0
+=======
+2	1506	7234043977565000	Wyżarzanie - PEA/CMakeFiles/CMakeTarget.dir/Wyżarzanie_-_PEA.cpp.obj	c966e4675dd6b178
+1491	1662	7234047740652052	Wyżarzanie - PEA/CMakeTarget.exe	866d082da245bda0
+8	1835	7234043845520241	Wyżarzanie - PEA/CMakeFiles/CMakeTarget.dir/KomivoyagerLocation.cpp.obj	bf16cbc2fdb3b5cf
+3	1491	7234047739283429	Wyżarzanie - PEA/CMakeFiles/CMakeTarget.dir/AS_Alg.cpp.obj	5b9307e861068899
+14	1854	7234043845731215	Wyżarzanie - PEA/CMakeFiles/CMakeTarget.dir/Mensuration.cpp.obj	8f8622f03903c60b
+4	1458	7234049605795591	Wyżarzanie - PEA/CMakeFiles/CMakeTarget.dir/AS_Alg.cpp.obj	5b9307e861068899
+1460	1632	7234049607180658	Wyżarzanie - PEA/CMakeTarget.exe	866d082da245bda0
+4	2463	7234052032202110	Wyżarzanie - PEA/CMakeFiles/CMakeTarget.dir/Wyżarzanie_-_PEA.cpp.obj	c966e4675dd6b178
+2463	2648	7234052033635235	Wyżarzanie - PEA/CMakeTarget.exe	866d082da245bda0
+>>>>>>> 90e5141f80991f1b1268c09fab77eafdbfe6eea1

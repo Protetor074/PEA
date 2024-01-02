@@ -15,11 +15,16 @@ void KomivoyagerLocation::create(int size) {
 }
 
 void KomivoyagerLocation::generate(int size, int minValue, int maxValue, bool symetric){
+<<<<<<< HEAD
 	int random, random1, ranndom1extra, ranndom2extra;
+=======
+	int random, random1;
+>>>>>>> 90e5141f80991f1b1268c09fab77eafdbfe6eea1
 	create(size);
 	srand(time(NULL));
 	for (int i = 0; i < size; i++) {
 		for (int j = i; j < size; j++) {
+<<<<<<< HEAD
 
 			ranndom1extra = rand();
 			ranndom1extra <<= 15;
@@ -31,6 +36,10 @@ void KomivoyagerLocation::generate(int size, int minValue, int maxValue, bool sy
 
 			random = (ranndom1extra % (maxValue - minValue)) + minValue;
 			random1 = (ranndom2extra % (maxValue - minValue)) + minValue;
+=======
+			random = (rand() % (maxValue - minValue)) + minValue;
+			random1 = (rand() % (maxValue - minValue)) + minValue;
+>>>>>>> 90e5141f80991f1b1268c09fab77eafdbfe6eea1
 
 			if (random == 0) {
 				random = maxValue / 2;
@@ -92,9 +101,12 @@ void KomivoyagerLocation::set(std::string file_name) {
 		}
 		plik.close();
 	}
+<<<<<<< HEAD
 	else {
 		for (int i = 0; i < 5; i++) {
 			std::cout << "!!!UWAGA!!! Bland Pliku :" << file_name << "!!!UWAGA!!!\n";
 		}
 	}
+=======
+>>>>>>> 90e5141f80991f1b1268c09fab77eafdbfe6eea1
 }

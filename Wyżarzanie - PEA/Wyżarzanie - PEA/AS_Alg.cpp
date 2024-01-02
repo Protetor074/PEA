@@ -1,6 +1,9 @@
 #include "Wy¿arzanie - PEA.h"
+<<<<<<< HEAD
 #include <sstream>
 #include <chrono>
+=======
+>>>>>>> 90e5141f80991f1b1268c09fab77eafdbfe6eea1
 
 // Funkcja obliczaj¹ca koszt dla danej œcie¿ki i macierzy s¹siedztwa
 void AS_Alg::calculatePathCost() {
@@ -16,6 +19,10 @@ void AS_Alg::calculatePathCost() {
     curentCost += tabLocation[currentPath.back()][currentPath.front()];
 }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 90e5141f80991f1b1268c09fab77eafdbfe6eea1
 // Funkcja pomocnicza do wyœwietlania œcie¿ki
 void AS_Alg::printPath(std::string description) {
     std::cout << description << std::endl;
@@ -23,7 +30,11 @@ void AS_Alg::printPath(std::string description) {
         std::cout << city << " ";
     }
     std::cout << std::endl;
+<<<<<<< HEAD
     std::cout << "Koszt = " << getCurentCost() << std::endl;
+=======
+    std::cout << "Koszt = " << curentCost << std::endl;
+>>>>>>> 90e5141f80991f1b1268c09fab77eafdbfe6eea1
     std::cout << "Temperatura poczatkowa = " << initialTemperature << std::endl;
     std::cout << "Temperatura koncowa = " << currentTemperature << std::endl << std::endl;
 
@@ -31,11 +42,19 @@ void AS_Alg::printPath(std::string description) {
 
 //initPathGeneratorMode == false - tryb losowy
 //initPathGeneratorMode == true - tryb najbli¿szego nie odwiedzonego s¹siedztwa
+<<<<<<< HEAD
 void AS_Alg::init(int** tabLocation, int tabLocationSize, bool initPathGeneratorMode, bool startTempMode, double avgTestVertxCorectionVal, double lCorectionVal, int eraLongMode) {
     this->tabLocation = tabLocation;
     this->tabLocationSize = tabLocationSize;
     this->lCorectionVal = lCorectionVal;
     setEraLong(eraLongMode);
+=======
+void AS_Alg::init(int** tabLocation, int tabLocationSize,int minTripVal,int maxTripVal, bool initPathGeneratorMode, bool startTempMode, int avgTestVertx) {
+    this->tabLocation = tabLocation;
+    this->tabLocationSize = tabLocationSize;
+    this->minTripVal = minTripVal;
+    this->maxTripVal = maxTripVal;
+>>>>>>> 90e5141f80991f1b1268c09fab77eafdbfe6eea1
 
     if (initPathGeneratorMode) {
         generateNearestNeighborPath();
@@ -45,6 +64,7 @@ void AS_Alg::init(int** tabLocation, int tabLocationSize, bool initPathGenerator
     }
 
     if (startTempMode) {
+<<<<<<< HEAD
         generateInitialTemperatureFromAverage(tabLocationSize*tabLocationSize*avgTestVertxCorectionVal);
     }
     else {
@@ -63,13 +83,35 @@ void AS_Alg::startAlgoritmGeo(double alpha, bool selectVertexMode, double probab
     /*std::cout << "\nAlg start - GEO" << std::endl;
     std::cout << "Sciezka = " << getCurentPath() << std::endl;
     std::cout << "Koszt = " << getCurentCost() << std::endl;*/
+=======
+        generateInitialTemperatureFromAverage(avgTestVertx);
+    }
+    else {
+        generateRandomInitialTemperature(minTripVal, maxTripVal);
+    }
+    currentTemperature = initialTemperature;
+
+    calculatePathCost();
+    //currentTemperature = initialTemperature;
+    printPath("Sciezka poczatkowa:");
+}
+
+//Funkcja rozpoczyna pracê algorytmu w trybie ch³odzenia geometrycznego
+void AS_Alg::startAlgoritmGeo(double alpha, bool selectVertexMode, double probability, int iterationNumber, int iterationSize) {
+    currentTemperature = initialTemperature;
+>>>>>>> 90e5141f80991f1b1268c09fab77eafdbfe6eea1
 
     srand(time(nullptr));
     int city1;
     int city2;
+<<<<<<< HEAD
     k = 1;
 
     while (currentTemperature>= 1){
+=======
+
+    for (int i = 0; i < iterationNumber; i++) {
+>>>>>>> 90e5141f80991f1b1268c09fab77eafdbfe6eea1
         if (!selectVertexMode) {
             for (int j = 0; j < iterationSize; j++) {
                 city1 = rand() % tabLocationSize;
@@ -98,25 +140,44 @@ void AS_Alg::startAlgoritmGeo(double alpha, bool selectVertexMode, double probab
                 }
             }
         }
+<<<<<<< HEAD
         k++;
         currentTemperature = currentTemperature * alpha;
+=======
+       
+        currentTemperature = currentTemperature * alpha;
+        if (currentTemperature <= 1) {
+            break;
+        }
+>>>>>>> 90e5141f80991f1b1268c09fab77eafdbfe6eea1
     }
 }
 
 //Funkcja rozpoczyna pracê algorytmu w trybie ch³odzenia Boltzmana
+<<<<<<< HEAD
 void AS_Alg::startAlgoritmBoltzmann(bool selectVertexMode, double probability) {
 
     /*std::cout << "\nAlg start - Boltz" << std::endl;
     std::cout << "Sciezka = " << getCurentPath() << std::endl;
     std::cout << "Koszt = " << getCurentCost() << std::endl;*/
+=======
+void AS_Alg::startAlgoritmBoltzmann(bool selectVertexMode, double probability, int iterationNumber, int iterationSize) {
+    currentTemperature = initialTemperature;
+>>>>>>> 90e5141f80991f1b1268c09fab77eafdbfe6eea1
 
     srand(time(nullptr));
     int city1;
     int city2;
+<<<<<<< HEAD
     k = 1;
 
     while (currentTemperature >= 1) {
         if (!selectVertexMode) {
+=======
+
+    for (int i = 0; i < iterationNumber; i++) {
+        if (selectVertexMode) {
+>>>>>>> 90e5141f80991f1b1268c09fab77eafdbfe6eea1
             for (int j = 0; j < iterationSize; j++) {
                 city1 = rand() % tabLocationSize;
                 city2 = rand() % tabLocationSize;
@@ -144,10 +205,18 @@ void AS_Alg::startAlgoritmBoltzmann(bool selectVertexMode, double probability) {
                 }
             }
         }
+<<<<<<< HEAD
         k++;
         currentTemperature = currentTemperature / log(k + 1);
     }
     k--;
+=======
+        currentTemperature = currentTemperature / log(iterationNumber + 1);
+        if (currentTemperature <= 1) {
+            break;
+        }
+    }
+>>>>>>> 90e5141f80991f1b1268c09fab77eafdbfe6eea1
 }
 
 //Funkcja akceptacji zmiany œcie¿ki
@@ -224,7 +293,10 @@ void AS_Alg::moveVertexLeft(int index) {
 /// </summary>
 
 void AS_Alg::generateNearestNeighborPath() {
+<<<<<<< HEAD
     currentPath.clear();
+=======
+>>>>>>> 90e5141f80991f1b1268c09fab77eafdbfe6eea1
     currentPath.reserve(tabLocationSize);
 
     srand(time(nullptr));
@@ -254,7 +326,10 @@ void AS_Alg::generateNearestNeighborPath() {
 
 // Funkcja generuj¹ca losow¹ pocz¹tkow¹ œcie¿kê
 void AS_Alg::generateRandomPath() {
+<<<<<<< HEAD
     currentPath.clear();
+=======
+>>>>>>> 90e5141f80991f1b1268c09fab77eafdbfe6eea1
 
     for (int i = 0; i < tabLocationSize; ++i) {
         currentPath.push_back(i);
@@ -272,9 +347,17 @@ void AS_Alg::generateRandomPath() {
 /// </summary>
 
 // Funkcja generuj¹ca temperaturê pocz¹tkow¹ losowo z przedzia³u
+<<<<<<< HEAD
 void AS_Alg::generateMaxInitialTemperature(int minTemperature, int maxTemperature) {
     // Losowo generuj temperaturê w zakresie [minTemperature, maxTemperature]
     initialTemperature = maxTemperature - minTemperature;
+=======
+void AS_Alg::generateRandomInitialTemperature(int minTemperature, int maxTemperature) {
+    srand(time(nullptr));
+
+    // Losowo generuj temperaturê w zakresie [minTemperature, maxTemperature]
+    initialTemperature = (minTemperature + rand() % (maxTemperature - minTemperature));
+>>>>>>> 90e5141f80991f1b1268c09fab77eafdbfe6eea1
 
 }
 
@@ -282,6 +365,7 @@ void AS_Alg::generateMaxInitialTemperature(int minTemperature, int maxTemperatur
 void AS_Alg::generateInitialTemperatureFromAverage(int n) {
     // Inicjalizacja generatora liczb losowych
     srand(time(nullptr));
+<<<<<<< HEAD
     std::random_device rd;
     std::mt19937 gen;
 
@@ -291,6 +375,14 @@ void AS_Alg::generateInitialTemperatureFromAverage(int n) {
         // Losowo wybierz dwa ró¿ne miasta
         int city1 = rand()*gen() % tabLocationSize;
         int city2 = rd() % tabLocationSize;
+=======
+
+    double sumDistances = 0.0;
+    for (int i = 0; i < n; ++i) {
+        // Losowo wybierz dwa ró¿ne miasta
+        int city1 = rand() % tabLocationSize;
+        int city2 = rand() % tabLocationSize;
+>>>>>>> 90e5141f80991f1b1268c09fab77eafdbfe6eea1
         while (city2 == city1) {
             city2 = rand() % tabLocationSize;
         }
@@ -301,7 +393,10 @@ void AS_Alg::generateInitialTemperatureFromAverage(int n) {
 
     // Oblicz œredni¹ odleg³oœæ
     initialTemperature = sumDistances / n;
+<<<<<<< HEAD
     //std::cout << initialTemperature << std::endl;
+=======
+>>>>>>> 90e5141f80991f1b1268c09fab77eafdbfe6eea1
 }
 
 void AS_Alg::clean() {
@@ -323,6 +418,7 @@ void AS_Alg::clean() {
     newCost = 0;
 }
 
+<<<<<<< HEAD
 void AS_Alg::foundMinMaxTripCost() {
     minTripVal = tabLocation[0][1];
     maxTripVal = tabLocation[0][1];
@@ -415,6 +511,8 @@ void AS_Alg::setEraLong(int mode) {
         currentPath[j] = temp;
     }
 }*/
+=======
+>>>>>>> 90e5141f80991f1b1268c09fab77eafdbfe6eea1
 
 
 

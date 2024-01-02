@@ -3,7 +3,11 @@
 #
 
 # Dodaj źródło do pliku wykonywalnego tego projektu.
+<<<<<<< HEAD
 add_executable (CMakeTarget "Wyżarzanie - PEA.cpp" "Wyżarzanie - PEA.h" "KomivoyagerLocation.cpp" "KomivoyagerLocation.h" "Mensuration.cpp" "Mensuration.h" "AS_Alg.cpp" "AS_Alg.h" )
+=======
+add_executable (CMakeTarget "Wyżarzanie - PEA.cpp" "Wyżarzanie - PEA.h" "KomivoyagerLocation.cpp" "KomivoyagerLocation.h" "Mensuration.cpp" "Mensuration.h" "AS_Alg.cpp" "AS_Alg.h")
+>>>>>>> 90e5141f80991f1b1268c09fab77eafdbfe6eea1
 
 if (CMAKE_VERSION VERSION_GREATER 3.12)
   set_property(TARGET CMakeTarget PROPERTY CXX_STANDARD 20)

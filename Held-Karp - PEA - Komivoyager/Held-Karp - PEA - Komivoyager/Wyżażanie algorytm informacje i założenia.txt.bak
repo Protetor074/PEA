@@ -1,0 +1,81 @@
+Sposoby przeglądania sąsiedztwa w kontekście algorytmów optymalizacji heurystycznej,
+
+C0 - temperatura początkowa
+L - długość schodka
+Lk - długość katego schotka
+k -  iterator po schodkach
+Ck - tempe panująca w czasie trwania katego schodka
+
+Badamy temperaturę początkową -  2 sposoby np losowy i jesce jeden
+Sposób wyboru początkowego rozwiązania -  2 sposoby np losowy i ze wzoru - próbkowanie
+Schemat chłodzenia - geometryczny i Boltzmanna
+długość epoki Lksposób przeglądania sąsiedztwa
+wpływu sposobu przeglądania sąsiedztwa greedy/ steepest
+sposób wyboru rzwiązania w sąsiedztwie rozwiązania bieżącego - (2‒zamiany + jescze jedno
+
+badanie wpływu liczby epok na czas i jakość rozwiązania oraz
+porównanie jakości uzyskiwanego rozwiązania (czas, pamięć i wielkość błędu) z dotychczas 
+zbadanymi metodami.
+
+Jak wybrać c0 - szukamy maksymalnej rużnicy w całej przestrzni i stosujemy następujący wzór
+p gdzie 0,85 - 0,99 wtedy
+dla delty = 1000
+c0 = 0,9
+
+e = 2,71
+
+ln 0,98 = -0,020
+
+ln 0,98 = -d/c0
+c0 = -d/ln 0,98
+c0 = -1000/-0,02 = 
+
+
+Liczba L - warunek zatrzymania
+T0
+Szybkość chłodzenia -war p
+Tmin - opcjonalny warunek zatrzymania
+Czas symulacji - opcjony warunek zatrzymania
+
+małe próbki lepiej niższa temperatura i szybsze chłodzenie - lepsze
+dla większych rozwiązań wyrzsza temperatur i powolne chłodzenie
+
+1.Schemat chłodzenia: - V
+	- geometryczny
+	- Boltzmanna
+
+2. Sposoby wybory początkowej ścieżki - V
+	- losowo
+	- wybieramy losowo miasto początkowe a następnie przechodzimy z niego do miasta najbliższego nie odwiedzonego
+ 
+3. Sposoby wybory początkowej temperatury: - V
+	- losowo
+	- na podstawie sreniej z n początkowych próbek
+	 
+	- uzyskanom temperaturę przejścia z pojedyńczego miasta mnozymy przez liczbę miast a następnie przez współczynnik korygujący 
+ 
+4. Sposób przeglądania sąsiedztwa: - X
+	- greedy
+	- steepest
+	- losowy
+
+5. Sposób wyboru rozwiązania w sąsiedztwie: - V
+	 - 2-ziamiany - 2 losowe miejsca
+	 - przesunięcie w lewo -  z powodu generatora
+ 
+ 
+
+Greedy (Żądliwy):
+
+Charakterystyka: Algorytm greedy, znany również jako algorytm zachłanny, wybiera najbardziej obiecujące rozwiązanie dostępne w danym momencie. W przypadku przeszukiwania sąsiedztwa, algorytm greedy wybiera pierwsze lepsze rozwiązanie, które poprawia aktualne rozwiązanie.
+Zalety: Prosty do zrozumienia i zaimplementowania. Może działać dobrze w przypadku problemów, gdzie lokalne poprawki prowadzą do ogólnie lepszych rozwiązań.
+Wady: Nie gwarantuje znalezienia globalnie optymalnego rozwiązania. Może zatrzymać się w lokalnym optimum.
+Steepest (Najstromszy):
+
+Charakterystyka: Algorytm steepest przechodzi przez całe sąsiedztwo aktualnego rozwiązania i wybiera to rozwiązanie, które daje największą poprawę (najlepszy ruch). W przeciwieństwie do greedy, steepest nie ogranicza się do pierwszego lepszego rozwiązania, ale dokładnie analizuje całe sąsiedztwo.
+Zalety: Może prowadzić do bardziej optymalnych rozwiązań niż algorytm greedy. Sprawdza więcej możliwości przed wyborem ruchu.
+Wady: Czasochłonny, zwłaszcza gdy sąsiedztwo jest duże. Może prowadzić do zbyt długiego czasu działania.
+
+void init(int** tabLocation, int tabLocationSize, int minTripVal, int maxTripVal, bool initPathGeneratorMode, bool startTempMode, int avgTestVertx, double corectionTempVal, int minTemp, int maxTemp);
+    void startAlgoritmGeo(double alpha, bool selectVertexMode, double probability, int iterationNumber, int iterationSize);
+    void startAlgoritmBoltzmann(bool selectVertexMode, double probability, int iterationNumber, int iterationSize);

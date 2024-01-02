@@ -18,7 +18,7 @@ int HeldKarpAlg::calculate(int** graph, int mask, int pos) {
         if ((mask & (1 << i)) == 0) {
             int newMask = mask | (1 << i);
             //Wywo³anie
-            //std::cout << mask <<" - " << newMask << std::endl;
+            std::cout << mask <<" - " << newMask << std::endl;
             int cost = graph[pos][i] + calculate(graph,newMask, i);
             if (cost < ans) {
                 ans = cost;
