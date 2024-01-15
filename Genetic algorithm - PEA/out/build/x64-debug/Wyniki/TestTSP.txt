@@ -1,0 +1,16 @@
+Tryb Testu;Nazwa Instancji;Numer Pomiaru;Czas Pomiaru;Koszt Uzyskany;Koszt Oczekiwany;Typ zakoñczenia
+Test Zmiennej wielkoœci populacji;Pliki Do testów/TSP/berlin52.tsp;0;7297.982300;10903;7542;Maksymalna liczba iteracji Bez zmian
+Test Zmiennej wielkoœci populacji;Pliki Do testów/TSP/berlin52.tsp;1;4456.869400;9388;7542;Maksymalna liczba iteracji Bez zmian
+Test Zmiennej wielkoœci populacji;Pliki Do testów/TSP/berlin52.tsp;2;8032.704200;10886;7542;Maksymalna liczba iteracji Bez zmian
+Test Zmiennej wielkoœci populacji;Pliki Do testów/TSP/eil76.tsp;0;16961.444100;694;538;Maksymalna liczba iteracji Bez zmian
+Test Zmiennej wielkoœci populacji;Pliki Do testów/TSP/eil76.tsp;1;18948.682500;788;538;Maksymalna liczba iteracji Bez zmian
+Test Zmiennej wielkoœci populacji;Pliki Do testów/TSP/eil76.tsp;2;15813.017700;888;538;Maksymalna liczba iteracji Bez zmian
+Test Zmiennej wielkoœci populacji;Pliki Do testów/TSP/kroA100.tsp;0;73039.232300;40252;21282;Maksymalna liczba iteracji Bez zmian
+Test Zmiennej wielkoœci populacji;Pliki Do testów/TSP/kroA100.tsp;1;55203.671200;42743;21282;Maksymalna liczba iteracji Bez zmian
+Test Zmiennej wielkoœci populacji;Pliki Do testów/TSP/kroA100.tsp;2;60415.772500;39079;21282;Maksymalna liczba iteracji Bez zmian
+Test Zmiennej wielkoœci populacji;Pliki Do testów/TSP/brg180.tsp;0;213296.349100;15100;1950;Maksymalna liczba iteracji Bez zmian
+Test Zmiennej wielkoœci populacji;Pliki Do testów/TSP/brg180.tsp;1;198172.640200;21670;1950;Maksymalna liczba iteracji Bez zmian
+Test Zmiennej wielkoœci populacji;Pliki Do testów/TSP/brg180.tsp;2;110959.129200;25530;1950;Maksymalna liczba iteracji Bez zmian
+Test Zmiennej wielkoœci populacji;Pliki Do testów/TSP/a280.tsp;0;804611.874900;5999;2579;Osi¹gniêto maksymaln¹ liczbê generacji - 25000
+Test Zmiennej wielkoœci populacji;Pliki Do testów/TSP/a280.tsp;1;808718.768600;6212;2579;Osi¹gniêto maksymaln¹ liczbê generacji - 25000
+Test Zmiennej wielkoœci populacji;Pliki Do testów/TSP/a280.tsp;2;806739.467400;6961;2579;Osi¹gniêto maksymaln¹ liczbê generacji - 25000

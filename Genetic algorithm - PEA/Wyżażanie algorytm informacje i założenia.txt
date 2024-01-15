@@ -1,0 +1,61 @@
+Generacja - wszystkie osobniki stworzone w jednym czassie
+Chromosom - pojedyńczy reperezentant danej gereracji -  pojedyńcza trasa
+Populacja liczba Chromosom w generacji
+
+Krzyżówki - 2 losowych z generacji
+Krzyżówka polega na wybraniu jednego z rodzicow i rozdzieleniu go w losowym miejscu i doklejamy do drugiego
+Mutacja - Modyfikacja chromosomu - Zmiana struktury chromosomu.(Zamiana ze sobą 2 losowych miast/Zamiana całego ciągu w inne miejsce)
+Selekcja - sortowanie i usuwanie zbędnych
+N=9
+Pop = 10
+kros = 4
+Liczba mutacji na generację  = 1 lub prawdopodobieństwo mutacji.
+
+1. Generwanie tras pozątkowych + koszt V
+2. Sortowanei V
+3. Krzyżówka Cała populacja lub n najlepszych /// 50% 25% - 4 nowe - V
+5. Mutacja - Losowy osobnik + Losowy typ mutacji - 1 nowy - V
+6. Selekcja - sortowanie i usuwanie
+
+Na 5
+2 sukcesji
+2 metody mutacji
+Na 4
+Dwie metody Selekcji
+Dwie metody Krzyżowania
+
+Selekcja wybur ze wszystkich
+Sukcesja wybur ze starej generacji
+
+Badamy:
+Wielkość populacji a czas i jakość
+Warunik stopu
+Prawdopodobieństwo krzyżowania ? czy można zrobić wartość początkowaą + wzrost przy braku rezultatow 
+Prawdopodobieństwo mutacji ? -||-
+
+metody sukcesji 2 - wybieramy ze starego pokolenia najlepsze / losowe n + najlepszy//Powód aby go nie stracić
+metody selekcji 2 - 10% stare 90% nowe / (50%/50%) stare nowe
+
+Metody krzyżowania:
+Zawsze po środku
+25% z każdego początkowego
+
+Metody Mutacji:
+2 zmiana
+Przemieszczenie fragmentu ścieżki
+
+Sukcesja: 
+Przechodzi n najlepszych
+Przechodzi n losowych + najlepszy 1 miejsce starego
+gzie n procentem starej populacji
+
+Selekcja:
+Nowe pokolenie to krzyżówki + Połowa starego + ograniczenie
+Nowe pokolenie + 10% ze starego + ograniczenie
+
+Maksymalna liczba generacji bez poprawy z 300 -> 500
+Maksymalna długość z 10000 generacji -> 25000 dla instancji <100 i 15000 dla instancji >100
+
+Prawdopodobieństwo mutacji aktualnie 0.3 + 0,0016 dla każdej Generacji bez poprawy
+Wielkość populacji bazowo = 70% wielkości instancji
+Ilość grzyżowań na generację bazowo = 20% wielkości instancji

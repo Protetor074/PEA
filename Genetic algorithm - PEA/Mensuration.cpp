@@ -46,6 +46,7 @@ double Pomiar::GetCounter()
 	return double(li.QuadPart - CounterStart) / PCFreq;
 }
 
+
 long Pomiar::getMemory()
 {
 	MEMORYSTATUSEX statex;
@@ -63,10 +64,9 @@ long Pomiar::getMemory()
 
 	return (statex.ullTotalPhys / DIV) - (statex.ullAvailPhys / DIV);
 }
-/*
-void Pomiar::autoTest() {
+
+/*void Pomiar::autoTest() {
 	KomivoyagerLocation kl;
-	//HeldKarpAlg hka;
 	double timeStart = 0;
 	double timeEnd = 0;
 
@@ -238,7 +238,7 @@ void Pomiar::autoTest() {
 			std::cout << "Test pliku:" << tabFile[fileIndex] << " E2 " << std::endl;
 			filewriter("TestStatus.txt", "Test pliku: " + tabFile[fileIndex] + " E2");
 			for (int j = 0; j < liczbaPomiarow; j++) {
-				annealingAlg.generateNearestNeighborPath();
+				annealingAlg.generateRandomPath();
 				startCost = annealingAlg.getCurentCost();
 
 				annealingAlg.currentTemperature = annealingAlg.initialTemperature;
@@ -524,7 +524,7 @@ void Pomiar::autoTest() {
 			std::cout << "Test pliku:" << tabFile[fileIndex] << " E2 " << std::endl;
 			filewriter("TestStatus.txt", "Test pliku: " + tabFile[fileIndex] + " E2");
 			for (int j = 0; j < liczbaPomiarow; j++) {
-				annealingAlg.generateNearestNeighborPath();
+				annealingAlg.generateRandomPath();
 
 				startCost = annealingAlg.getCurentCost();
 
@@ -584,7 +584,7 @@ void Pomiar::autoTest() {
 			std::cout << "Test pliku - P2:" << tabFile[fileIndex] << " E2" << std::endl;
 			filewriter("TestStatus.txt", "Test pliku - P2: " + tabFile[fileIndex] + " E2");
 			for (int j = 0; j < liczbaPomiarow; j++) {
-				annealingAlg.generateNearestNeighborPath();
+				annealingAlg.generateRandomPath();
 
 				startCost = annealingAlg.getCurentCost();
 
@@ -663,9 +663,9 @@ void Pomiar::autoTest() {
 	}
 
 
-}
+}*/
 
-void Pomiar::autoTest2() {
+/*void Pomiar::autoTest2() {
 	double timeStartGeo = 0;
 	double timeEndGeo = 0;
 	double timeStartBoltz = 0;
@@ -676,10 +676,25 @@ void Pomiar::autoTest2() {
 	double memoryStartBoltz = 0;
 	double memoryEndBoltz = 0;
 
+	std::string tabFile2[] = {//ATSP
+		"Pliki Do testów/ATSP/br17.txt",
+		"Pliki Do testów/ATSP/ftv44.txt",
+		"Pliki Do testów/ATSP/ftv70.txt",
+		"Pliki Do testów/ATSP/ftv170.txt",
+		"Pliki Do testów/ATSP/rbg443.txt",
+	};
+	std::string tabFile[] = {//TSP
+		"Pliki Do testów/TSP/berlin52.tsp",
+		"Pliki Do testów/TSP/eil76.tsp",
+		"Pliki Do testów/TSP/kroA100.tsp",
+		"Pliki Do testów/TSP/brg180.tsp",
+		"Pliki Do testów/TSP/a280.tsp",
+	};
 
 
 
-	AS_Alg annealingAlg;
+
+	GeneticAlgoritm genAlg;
 	KomivoyagerLocation kl;
 	StartCounter();
 
@@ -810,5 +825,520 @@ void Pomiar::autoTest2() {
 		}
 
 	}
+}*/
+
+void Pomiar::autoTest3() {
+	double timeStart = 0;
+	double timeEnd = 0;
+
+	std::string tabFileATSP[] = {//ATSP
+		"Pliki Do testów/ATSP/br17.txt",
+		"Pliki Do testów/ATSP/ftv44.txt",
+		"Pliki Do testów/ATSP/ftv70.txt",
+		"Pliki Do testów/ATSP/ftv170.txt",
+		"Pliki Do testów/ATSP/rbg443.txt",
+	};
+	std::string tabOutFileATSP[] = {//ATSPout
+		"Pliki Do testów/out/ATSP/br17",
+		"Pliki Do testów/out/ATSP/ftv44",
+		"Pliki Do testów/out/ATSP/ftv70",
+		"Pliki Do testów/out/ATSP/ftv170",
+		"Pliki Do testów/out/ATSP/rbg443",
+	};
+	int configATSPtab[][3] = {
+	{12, 4, 39},
+	{30, 10, 1613},
+	{50, 15, 1950},
+	{120, 40, 2755},
+	{300, 100, 2720}
+	};
+	std::string tabFileTSP[] = {//TSP
+		"Pliki Do testów/TSP/berlin52.tsp",
+		"Pliki Do testów/TSP/eil76.tsp",
+		"Pliki Do testów/TSP/kroA100.tsp",
+		"Pliki Do testów/TSP/brg180.tsp",
+		"Pliki Do testów/TSP/a280.tsp",
+	};
+	std::string tabOutFileTSP[] = {//TSPout
+		"Pliki Do testów/out/TSP/berlin52",
+		"Pliki Do testów/out/TSP/eil76",
+		"Pliki Do testów/out/TSP/kroA100",
+		"Pliki Do testów/out/TSP/brg180",
+		"Pliki Do testów/out/TSP/a280",
+	};
+	int configTSPtab[][3] = {
+	{35, 12, 7542},
+	{50, 16, 538},
+	{70, 22, 21282},
+	{120, 40, 1950},
+	{200, 60, 2579}
+	};
+
+	bool mode[]{
+		false,//Zmienna wielkoœæ populacji
+		true,//Wszystko off
+		true,//Zmienna liczba krzy¿owañ
+		true,//Zmienna liczba mutacji
+		true,//Tryb selekcji Najlepsze
+		true,//Tryb selekcji losowo
+		true,//Tryb sukcesji 90/10
+		true,//Tryb sukcesji 50/50
+		true,//Tryb mutacji fragment
+		true,//Tryb mutacji 2 zamiana
+		true,//Tryb krzy¿owania 50/50
+		true,//Tryb krzy¿owania 25/75
+		true//Zmienna wartoœæ pocz¹tkowa mutacji
+	};
+
+
+
+	GeneticAlgoritm genAlg;
+	KomivoyagerLocation kl;
+	StartCounter();
+
+	std::string text;
+
+	int repeatNumber = 3;
+
+	//file_clear("TestATSP.txt", "Tryb Testu;Nazwa Instancji; Numer Pomiaru; Czas Pomiaru; Koszt Uzyskany; Koszt Oczekiwany; Typ zakoñczenia");
+	//file_clear("TestTSP.txt", "Tryb Testu;Nazwa Instancji;Numer Pomiaru;Czas Pomiaru;Koszt Uzyskany;Koszt Oczekiwany;Typ zakoñczenia");
+
+	//Zmenna wielkoœæ populacji w³¹czona
+	if (mode[0]) {
+		std::cout << "Zmenna wielkoœæ populacji" << std::endl;
+
+		for (int i = 0; i < tabFileATSP->size(); i++) {
+			kl.set(tabFileATSP[i]);
+			for (int j = 0; j < repeatNumber; j++) {
+				std::cout << "Start Pomiaru " << tabFileATSP[i] << " - Numer Pomiaru - " << (j + 1) << std::endl;
+				genAlg.init(kl.tabLocation, kl.size, configATSPtab[i][0], configATSPtab[i][1], 0.3);
+				timeStart = GetCounter();
+				genAlg.startAlgoritm(true, true, true, 0.3, true, 500, configATSPtab[i][2], tabOutFileATSP[i] + "-" + std::to_string(j) + "_Zmienna wielkoœæ populacji.txt", true, true, false, false);
+				timeEnd = GetCounter();
+
+				text = "Test Zmiennej wielkoœci populacji;" + tabFileATSP[i] + ";" + std::to_string(j) + ";" + std::to_string(timeEnd - timeStart) + ";" + std::to_string(genAlg.bestCost) + ";" + std::to_string(configATSPtab[i][2]) + ";" + genAlg.endType;
+				filewriter("TestATSP.txt", text);
+			}
+
+			kl.set(tabFileTSP[i]);
+			for (int j = 0; j < repeatNumber; j++) {
+				std::cout << "Start Pomiaru " << tabFileTSP[i] << " - Numer Pomiaru - " << (j + 1) << std::endl;
+				genAlg.init(kl.tabLocation, kl.size, configTSPtab[i][0], configTSPtab[i][1], 0.3);
+				//(bool croosMode, bool mutateMode, bool succesionMode, double succesionProcent, bool sellectionMode, int maxIterationWithoutBetterVall, int expectedPathCost, std::string fileName, bool descriptionAdd);
+				timeStart = GetCounter();
+				genAlg.startAlgoritm(true, true, true, 0.3, true, 500, configTSPtab[i][2], tabOutFileTSP[i] + "-" + std::to_string(j) + "_Zmienna wielkoœæ populacji.txt", true, true, false, false);
+				timeEnd = GetCounter();
+
+				text = "Test Zmiennej wielkoœci populacji;" + tabFileTSP[i] + ";" + std::to_string(j) + ";" + std::to_string(timeEnd - timeStart) + ";" + std::to_string(genAlg.bestCost) + ";" + std::to_string(configTSPtab[i][2]) + ";" + genAlg.endType;
+				filewriter("TestTSP.txt", text);
+			}
+		}
+	}
+	
+
+	
+
+	//Zmenna Wszystkie OFF
+	if (mode[1]) {
+		std::cout << "Wszystkie zmienne wy³¹czone" << std::endl;
+
+		for (int i = 0; i < tabFileATSP->size(); i++) {
+			kl.set(tabFileATSP[i]);
+			for (int j = 0; j < repeatNumber; j++) {
+				std::cout << "Start Pomiaru " << tabFileATSP[i] << " - Numer Pomiaru - " << (j + 1) << std::endl;
+				genAlg.init(kl.tabLocation, kl.size, configATSPtab[i][0], configATSPtab[i][1], 0.3);
+				timeStart = GetCounter();
+				genAlg.startAlgoritm(true, true, true, 0.3, true, 500, configATSPtab[i][2], tabOutFileATSP[i] + "-" + std::to_string(j) + "_Test Wartoœci zmiennych OFF.txt", true, false, false, false);
+				timeEnd = GetCounter();
+
+				text = "Test Wartoœci zmiennych OFF;" + tabFileATSP[i] + ";" + std::to_string(j) + ";" + std::to_string(timeEnd - timeStart) + ";" + std::to_string(genAlg.bestCost) + ";" + std::to_string(configATSPtab[i][2]) + ";" + genAlg.endType;
+				filewriter("TestATSP.txt", text);
+			}
+
+			kl.set(tabFileTSP[i]);
+			for (int j = 0; j < repeatNumber; j++) {
+				std::cout << "Start Pomiaru " << tabFileTSP[i] << " - Numer Pomiaru - " << (j + 1) << std::endl;
+				genAlg.init(kl.tabLocation, kl.size, configTSPtab[i][0], configTSPtab[i][1], 0.3);
+				//(bool croosMode, bool mutateMode, bool succesionMode, double succesionProcent, bool sellectionMode, int maxIterationWithoutBetterVall, int expectedPathCost, std::string fileName, bool descriptionAdd);
+				timeStart = GetCounter();
+				genAlg.startAlgoritm(true, true, true, 0.3, true, 500, configTSPtab[i][2], tabOutFileTSP[i] + "-" + std::to_string(j) + "_Test Wartoœci zmiennych OFF.txt", true, false, false, false);
+				timeEnd = GetCounter();
+
+				text = "Test Wartoœci zmiennych OFF;" + tabFileTSP[i] + ";" + std::to_string(j) + ";" + std::to_string(timeEnd - timeStart) + ";" + std::to_string(genAlg.bestCost) + ";" + std::to_string(configTSPtab[i][2]) + ";" + genAlg.endType;
+				filewriter("TestTSP.txt", text);
+			}
+		}
+	}
+
+	//Zmienna liczba krzy¿owañ ON
+	if (mode[2]) {
+
+		std::cout << "Zmienna liczba krzy¿owañ" << std::endl;
+
+		for (int i = 0; i < tabFileATSP->size(); i++) {
+			kl.set(tabFileATSP[i]);
+			for (int j = 0; j < repeatNumber; j++) {
+				std::cout << "Start Pomiaru " << tabFileATSP[i] << " - Numer Pomiaru - " << (j + 1) << std::endl;
+				genAlg.init(kl.tabLocation, kl.size, configATSPtab[i][0], configATSPtab[i][1], 0.3);
+				timeStart = GetCounter();
+				genAlg.startAlgoritm(true, true, true, 0.3, true, 500, configATSPtab[i][2], tabOutFileATSP[i] + "-" + std::to_string(j) + "_Zmienna liczba krzyrzowañ ON.txt", true, false, true, false);
+				timeEnd = GetCounter();
+
+				text = "Zmienna liczba krzyrzowañ ON;" + tabFileATSP[i] + ";" + std::to_string(j) + ";" + std::to_string(timeEnd - timeStart) + ";" + std::to_string(genAlg.bestCost) + ";" + std::to_string(configATSPtab[i][2]) + ";" + genAlg.endType;
+				filewriter("TestATSP.txt", text);
+			}
+
+			kl.set(tabFileTSP[i]);
+			for (int j = 0; j < repeatNumber; j++) {
+				std::cout << "Start Pomiaru " << tabFileTSP[i] << " - Numer Pomiaru - " << (j + 1) << std::endl;
+				genAlg.init(kl.tabLocation, kl.size, configTSPtab[i][0], configTSPtab[i][1], 0.3);
+				//(bool croosMode, bool mutateMode, bool succesionMode, double succesionProcent, bool sellectionMode, int maxIterationWithoutBetterVall, int expectedPathCost, std::string fileName, bool descriptionAdd);
+				timeStart = GetCounter();
+				genAlg.startAlgoritm(true, true, true, 0.3, true, 500, configTSPtab[i][2], tabOutFileTSP[i] + "-" + std::to_string(j) + "_Zmienna liczba krzyrzowañ ON.txt", true, false, true, false);
+				timeEnd = GetCounter();
+
+				text = "Zmienna liczba krzyrzowañ ON;" + tabFileTSP[i] + ";" + std::to_string(j) + ";" + std::to_string(timeEnd - timeStart) + ";" + std::to_string(genAlg.bestCost) + ";" + std::to_string(configTSPtab[i][2]) + ";" + genAlg.endType;
+				filewriter("TestTSP.txt", text);
+			}
+		}
+	}
+
+	//Zmienna liczba mutacji ON
+	if (mode[3]) {
+		std::cout << "Zmienna liczba mutacji" << std::endl;
+
+		for (int i = 0; i < tabFileATSP->size(); i++) {
+			kl.set(tabFileATSP[i]);
+			for (int j = 0; j < repeatNumber; j++) {
+				std::cout << "Start Pomiaru " << tabFileATSP[i] << " - Numer Pomiaru - " << (j + 1) << std::endl;
+				genAlg.init(kl.tabLocation, kl.size, configATSPtab[i][0], configATSPtab[i][1], 0.3);
+				timeStart = GetCounter();
+				genAlg.startAlgoritm(true, true, true, 0.3, true, 500, configATSPtab[i][2], tabOutFileATSP[i] + "-" + std::to_string(j) + "_Zmienna liczba mutacji.txt", true, false, false, true);
+				timeEnd = GetCounter();
+
+				text = "Zmienna liczba mutacji;" + tabFileATSP[i] + ";" + std::to_string(j) + ";" + std::to_string(timeEnd - timeStart) + ";" + std::to_string(genAlg.bestCost) + ";" + std::to_string(configATSPtab[i][2]) + ";" + genAlg.endType;
+				filewriter("TestATSP.txt", text);
+			}
+
+			kl.set(tabFileTSP[i]);
+			for (int j = 0; j < repeatNumber; j++) {
+				std::cout << "Start Pomiaru " << tabFileTSP[i] << " - Numer Pomiaru - " << (j + 1) << std::endl;
+				genAlg.init(kl.tabLocation, kl.size, configTSPtab[i][0], configTSPtab[i][1], 0.3);
+				//(bool croosMode, bool mutateMode, bool succesionMode, double succesionProcent, bool sellectionMode, int maxIterationWithoutBetterVall, int expectedPathCost, std::string fileName, bool descriptionAdd);
+				timeStart = GetCounter();
+				genAlg.startAlgoritm(true, true, true, 0.3, true, 500, configTSPtab[i][2], tabOutFileTSP[i] + "-" + std::to_string(j) + "_Zmienna liczba mutacji.txt", true, false, false, true);
+				timeEnd = GetCounter();
+
+				text = "Zmienna liczba mutacji;" + tabFileTSP[i] + ";" + std::to_string(j) + ";" + std::to_string(timeEnd - timeStart) + ";" + std::to_string(genAlg.bestCost) + ";" + std::to_string(configTSPtab[i][2]) + ";" + genAlg.endType;
+				filewriter("TestTSP.txt", text);
+			}
+		}
+	}
+
+	
+
+	//Tryby sukceji Najlepsze
+	if (mode[4]) {
+		std::cout << "Tryby sukceji Najlepsze" << std::endl;
+		for (int i = 0; i < tabFileATSP->size(); i++) {
+			kl.set(tabFileATSP[i]);
+			for (int j = 0; j < repeatNumber; j++) {
+				std::cout << "Start Pomiaru " << tabFileATSP[i] << " - Numer Pomiaru - " << (j + 1) << std::endl;
+				genAlg.init(kl.tabLocation, kl.size, configATSPtab[i][0], configATSPtab[i][1], 0.3);
+				timeStart = GetCounter();
+				genAlg.startAlgoritm(true, true, true, 0.3, true, 500, configATSPtab[i][2], tabOutFileATSP[i] + "-" + std::to_string(j) + "_Sukcesja Najlepszych.txt", true, false, false, false);
+				timeEnd = GetCounter();
+
+				text = "Sukcesja Najlepszych;" + tabFileATSP[i] + ";" + std::to_string(j) + ";" + std::to_string(timeEnd - timeStart) + ";" + std::to_string(genAlg.bestCost) + ";" + std::to_string(configATSPtab[i][2]) + ";" + genAlg.endType;
+				filewriter("TestATSP.txt", text);
+			}
+
+			kl.set(tabFileTSP[i]);
+			for (int j = 0; j < repeatNumber; j++) {
+				std::cout << "Start Pomiaru " << tabFileTSP[i] << " - Numer Pomiaru - " << (j + 1) << std::endl;
+				genAlg.init(kl.tabLocation, kl.size, configTSPtab[i][0], configTSPtab[i][1], 0.3);
+				//(bool croosMode, bool mutateMode, bool succesionMode, double succesionProcent, bool sellectionMode, int maxIterationWithoutBetterVall, int expectedPathCost, std::string fileName, bool descriptionAdd);
+				timeStart = GetCounter();
+				genAlg.startAlgoritm(true, true, true, 0.3, true, 500, configTSPtab[i][2], tabOutFileTSP[i] + "-" + std::to_string(j) + "_Sukcesja Najlepszych.txt", true, false, false, false);
+				timeEnd = GetCounter();
+
+				text = "Sukcesja Najlepszych;" + tabFileTSP[i] + ";" + std::to_string(j) + ";" + std::to_string(timeEnd - timeStart) + ";" + std::to_string(genAlg.bestCost) + ";" + std::to_string(configTSPtab[i][2]) + ";" + genAlg.endType;
+				filewriter("TestTSP.txt", text);
+			}
+		}
+	}
+
+
+	//Tryby sukceji Losowych
+	if (mode[5]) {
+		std::cout << "Tryby sukceji Losowych" << std::endl;
+
+		for (int i = 0; i < tabFileATSP->size(); i++) {
+			kl.set(tabFileATSP[i]);
+			for (int j = 0; j < repeatNumber; j++) {
+				std::cout << "Start Pomiaru " << tabFileATSP[i] << " - Numer Pomiaru - " << (j + 1) << std::endl;
+				genAlg.init(kl.tabLocation, kl.size, configATSPtab[i][0], configATSPtab[i][1], 0.3);
+				timeStart = GetCounter();
+				genAlg.startAlgoritm(true, true, false, 0.3, true, 500, configATSPtab[i][2], tabOutFileATSP[i] + "-" + std::to_string(j) + "_Sukcesja Losowych.txt", true, false, false, false);
+				timeEnd = GetCounter();
+
+				text = "Sukcesja Losowych;" + tabFileATSP[i] + ";" + std::to_string(j) + ";" + std::to_string(timeEnd - timeStart) + ";" + std::to_string(genAlg.bestCost) + ";" + std::to_string(configATSPtab[i][2]) + ";" + genAlg.endType;
+				filewriter("TestATSP.txt", text);
+			}
+
+			kl.set(tabFileTSP[i]);
+			for (int j = 0; j < repeatNumber; j++) {
+				std::cout << "Start Pomiaru " << tabFileTSP[i] << " - Numer Pomiaru - " << (j + 1) << std::endl;
+				genAlg.init(kl.tabLocation, kl.size, configTSPtab[i][0], configTSPtab[i][1], 0.3);
+				//(bool croosMode, bool mutateMode, bool succesionMode, double succesionProcent, bool sellectionMode, int maxIterationWithoutBetterVall, int expectedPathCost, std::string fileName, bool descriptionAdd);
+				timeStart = GetCounter();
+				genAlg.startAlgoritm(true, true, false, 0.3, true, 500, configTSPtab[i][2], tabOutFileTSP[i] + "-" + std::to_string(j) + "_Sukcesja Losowych.txt", true, false, false, false);
+				timeEnd = GetCounter();
+
+				text = "Sukcesja Losowych;" + tabFileTSP[i] + ";" + std::to_string(j) + ";" + std::to_string(timeEnd - timeStart) + ";" + std::to_string(genAlg.bestCost) + ";" + std::to_string(configTSPtab[i][2]) + ";" + genAlg.endType;
+				filewriter("TestTSP.txt", text);
+			}
+		}
+	}
+
+	//Tryby selekcji 10/90
+	if (mode[6]) {
+		std::cout << "Tryby selekcji 10/90" << std::endl;
+
+		for (int i = 0; i < tabFileATSP->size(); i++) {
+			kl.set(tabFileATSP[i]);
+			for (int j = 0; j < repeatNumber; j++) {
+				std::cout << "Start Pomiaru " << tabFileATSP[i] << " - Numer Pomiaru - " << (j + 1) << std::endl;
+				genAlg.init(kl.tabLocation, kl.size, configATSPtab[i][0], configATSPtab[i][1], 0.3);
+				timeStart = GetCounter();
+				genAlg.startAlgoritm(true, true, true, 0.3, true, 500, configATSPtab[i][2], tabOutFileATSP[i] + "-" + std::to_string(j) + "_Tryb Selekcji 10/90.txt", true, false, false, false);
+				timeEnd = GetCounter();
+
+				text = "Tryb Selekcji 10/90;" + tabFileATSP[i] + ";" + std::to_string(j) + ";" + std::to_string(timeEnd - timeStart) + ";" + std::to_string(genAlg.bestCost) + ";" + std::to_string(configATSPtab[i][2]) + ";" + genAlg.endType;
+				filewriter("TestATSP.txt", text);
+			}
+
+			kl.set(tabFileTSP[i]);
+			for (int j = 0; j < repeatNumber; j++) {
+				std::cout << "Start Pomiaru " << tabFileTSP[i] << " - Numer Pomiaru - " << (j + 1) << std::endl;
+				genAlg.init(kl.tabLocation, kl.size, configTSPtab[i][0], configTSPtab[i][1], 0.3);
+				//(bool croosMode, bool mutateMode, bool succesionMode, double succesionProcent, bool sellectionMode, int maxIterationWithoutBetterVall, int expectedPathCost, std::string fileName, bool descriptionAdd);
+				timeStart = GetCounter();
+				genAlg.startAlgoritm(true, true, true, 0.3, true, 500, configTSPtab[i][2], tabOutFileTSP[i] + "-" + std::to_string(j) + "_Tryb Selekcji 10/90.txt", true, false, false, false);
+				timeEnd = GetCounter();
+
+				text = "Tryb Selekcji 10/90;" + tabFileTSP[i] + ";" + std::to_string(j) + ";" + std::to_string(timeEnd - timeStart) + ";" + std::to_string(genAlg.bestCost) + ";" + std::to_string(configTSPtab[i][2]) + ";" + genAlg.endType;
+				filewriter("TestTSP.txt", text);
+			}
+		}
+	}
+
+	
+	//Tryby selekcji 50/50
+	if (mode[7]) {
+		std::cout << "Tryby selekcji 50/50" << std::endl;
+
+		for (int i = 0; i < tabFileATSP->size(); i++) {
+			kl.set(tabFileATSP[i]);
+			for (int j = 0; j < repeatNumber; j++) {
+				std::cout << "Start Pomiaru " << tabFileATSP[i] << " - Numer Pomiaru - " << (j + 1) << std::endl;
+				genAlg.init(kl.tabLocation, kl.size, configATSPtab[i][0], configATSPtab[i][1], 0.3);
+				timeStart = GetCounter();
+				genAlg.startAlgoritm(true, true, true, 0.3, false, 500, configATSPtab[i][2], tabOutFileATSP[i] + "-" + std::to_string(j) + "_Tryb Selekcji 50/50.txt", true, false, false, false);
+				timeEnd = GetCounter();
+
+				text = "Tryb Selekcji 50/50;" + tabFileATSP[i] + ";" + std::to_string(j) + ";" + std::to_string(timeEnd - timeStart) + ";" + std::to_string(genAlg.bestCost) + ";" + std::to_string(configATSPtab[i][2]) + ";" + genAlg.endType;
+				filewriter("TestATSP.txt", text);
+			}
+
+			kl.set(tabFileTSP[i]);
+			for (int j = 0; j < repeatNumber; j++) {
+				std::cout << "Start Pomiaru " << tabFileTSP[i] << " - Numer Pomiaru - " << (j + 1) << std::endl;
+				genAlg.init(kl.tabLocation, kl.size, configTSPtab[i][0], configTSPtab[i][1], 0.3);
+				//(bool croosMode, bool mutateMode, bool succesionMode, double succesionProcent, bool sellectionMode, int maxIterationWithoutBetterVall, int expectedPathCost, std::string fileName, bool descriptionAdd);
+				timeStart = GetCounter();
+				genAlg.startAlgoritm(true, true, true, 0.3, true, 500, configTSPtab[i][2], tabOutFileTSP[i] + "-" + std::to_string(j) + "_Tryb Selekcji 50/50.txt", true, false, false, false);
+				timeEnd = GetCounter();
+
+				text = "Tryb Selekcji 50/50;" + tabFileTSP[i] + ";" + std::to_string(j) + ";" + std::to_string(timeEnd - timeStart) + ";" + std::to_string(genAlg.bestCost) + ";" + std::to_string(configTSPtab[i][2]) + ";" + genAlg.endType;
+				filewriter("TestTSP.txt", text);
+			}
+		}
+	}
+
+	//Tryby mutacji zamiana 2 wybranych wierzcho³ków
+	if (mode[8]) {
+		std::cout << "Tryby mutacji zamiana 2 wybranych wierzcho³ków" << std::endl;
+
+		for (int i = 0; i < tabFileATSP->size(); i++) {
+			kl.set(tabFileATSP[i]);
+			for (int j = 0; j < repeatNumber; j++) {
+				std::cout << "Start Pomiaru " << tabFileATSP[i] << " - Numer Pomiaru - " << (j + 1) << std::endl;
+				genAlg.init(kl.tabLocation, kl.size, configATSPtab[i][0], configATSPtab[i][1], 0.3);
+				timeStart = GetCounter();
+				genAlg.startAlgoritm(true, true, true, 0.3, true, 500, configATSPtab[i][2], tabOutFileATSP[i] + "-" + std::to_string(j) + "_Tryb Mutacji 2 wierzcho³ków.txt", true, false, false, false);
+				timeEnd = GetCounter();
+
+				text = "Tryb Mutacji 2 wierzcho³ków;" + tabFileATSP[i] + ";" + std::to_string(j) + ";" + std::to_string(timeEnd - timeStart) + ";" + std::to_string(genAlg.bestCost) + ";" + std::to_string(configATSPtab[i][2]) + ";" + genAlg.endType;
+				filewriter("TestATSP.txt", text);
+			}
+
+			kl.set(tabFileTSP[i]);
+			for (int j = 0; j < repeatNumber; j++) {
+				std::cout << "Start Pomiaru " << tabFileTSP[i] << " - Numer Pomiaru - " << (j + 1) << std::endl;
+				genAlg.init(kl.tabLocation, kl.size, configTSPtab[i][0], configTSPtab[i][1], 0.3);
+				//(bool croosMode, bool mutateMode, bool succesionMode, double succesionProcent, bool sellectionMode, int maxIterationWithoutBetterVall, int expectedPathCost, std::string fileName, bool descriptionAdd);
+				timeStart = GetCounter();
+				genAlg.startAlgoritm(true, true, true, 0.3, true, 500, configTSPtab[i][2], tabOutFileTSP[i] + "-" + std::to_string(j) + "_Tryb Mutacji 2 wierzcho³ków.txt", true, false, false, false);
+				timeEnd = GetCounter();
+
+				text = "Tryb Mutacji 2 wierzcho³ków;" + tabFileTSP[i] + ";" + std::to_string(j) + ";" + std::to_string(timeEnd - timeStart) + ";" + std::to_string(genAlg.bestCost) + ";" + std::to_string(configTSPtab[i][2]) + ";" + genAlg.endType;
+				filewriter("TestTSP.txt", text);
+			}
+		}
+	}
+	
+	
+	//Tryby mutacji zamiana fragmentu
+	if (mode[9]) {
+		std::cout << "Tryby mutacji zamiana fragmentu" << std::endl;
+
+		for (int i = 0; i < tabFileATSP->size(); i++) {
+			kl.set(tabFileATSP[i]);
+			for (int j = 0; j < repeatNumber; j++) {
+				std::cout << "Start Pomiaru " << tabFileATSP[i] << " - Numer Pomiaru - " << (j + 1) << std::endl;
+				genAlg.init(kl.tabLocation, kl.size, configATSPtab[i][0], configATSPtab[i][1], 0.3);
+				timeStart = GetCounter();
+				genAlg.startAlgoritm(true, false, true, 0.3, true, 500, configATSPtab[i][2], tabOutFileATSP[i] + "-" + std::to_string(j) + "_Tryb Mutacji zamiana fragmentu.txt", true, false, false, false);
+				timeEnd = GetCounter();
+
+				text = "Tryb Mutacji zamiana fragmentu;" + tabFileATSP[i] + ";" + std::to_string(j) + ";" + std::to_string(timeEnd - timeStart) + ";" + std::to_string(genAlg.bestCost) + ";" + std::to_string(configATSPtab[i][2]) + ";" + genAlg.endType;
+				filewriter("TestATSP.txt", text);
+			}
+
+			kl.set(tabFileTSP[i]);
+			for (int j = 0; j < repeatNumber; j++) {
+				std::cout << "Start Pomiaru " << tabFileTSP[i] << " - Numer Pomiaru - " << (j + 1) << std::endl;
+				genAlg.init(kl.tabLocation, kl.size, configTSPtab[i][0], configTSPtab[i][1], 0.3);
+				//(bool croosMode, bool mutateMode, bool succesionMode, double succesionProcent, bool sellectionMode, int maxIterationWithoutBetterVall, int expectedPathCost, std::string fileName, bool descriptionAdd);
+				timeStart = GetCounter();
+				genAlg.startAlgoritm(true, false, true, 0.3, true, 500, configTSPtab[i][2], tabOutFileTSP[i] + "-" + std::to_string(j) + "_Tryb Mutacji zamiana fragmentu.txt", true, false, false, false);
+				timeEnd = GetCounter();
+
+				text = "Tryb Mutacji zamiana fragmentu;" + tabFileTSP[i] + ";" + std::to_string(j) + ";" + std::to_string(timeEnd - timeStart) + ";" + std::to_string(genAlg.bestCost) + ";" + std::to_string(configTSPtab[i][2]) + ";" + genAlg.endType;
+				filewriter("TestTSP.txt", text);
+			}
+		}
+	}
+
+	
+
+	//Tryby krzy¿owañ 50%/50%
+	if (mode[10]) {
+		std::cout << "Tryby krzy¿owañ 50%/50%" << std::endl;
+
+		for (int i = 0; i < tabFileATSP->size(); i++) {
+			kl.set(tabFileATSP[i]);
+			for (int j = 0; j < repeatNumber; j++) {
+				std::cout << "Start Pomiaru " << tabFileATSP[i] << " - Numer Pomiaru - " << (j + 1) << std::endl;
+				genAlg.init(kl.tabLocation, kl.size, configATSPtab[i][0], configATSPtab[i][1], 0.3);
+				timeStart = GetCounter();
+				genAlg.startAlgoritm(true, true, true, 0.3, true, 500, configATSPtab[i][2], tabOutFileATSP[i] + "-" + std::to_string(j) + "_Tryb krzy¿owania 50/50.txt", true, false, false, false);
+				timeEnd = GetCounter();
+
+				text = "Tryb krzy¿owania 50/50;" + tabFileATSP[i] + ";" + std::to_string(j) + ";" + std::to_string(timeEnd - timeStart) + ";" + std::to_string(genAlg.bestCost) + ";" + std::to_string(configATSPtab[i][2]) + ";" + genAlg.endType;
+				filewriter("TestATSP.txt", text);
+			}
+
+			kl.set(tabFileTSP[i]);
+			for (int j = 0; j < repeatNumber; j++) {
+				std::cout << "Start Pomiaru " << tabFileTSP[i] << " - Numer Pomiaru - " << (j + 1) << std::endl;
+				genAlg.init(kl.tabLocation, kl.size, configTSPtab[i][0], configTSPtab[i][1], 0.3);
+				//(bool croosMode, bool mutateMode, bool succesionMode, double succesionProcent, bool sellectionMode, int maxIterationWithoutBetterVall, int expectedPathCost, std::string fileName, bool descriptionAdd);
+				timeStart = GetCounter();
+				genAlg.startAlgoritm(true, true, true, 0.3, true, 500, configTSPtab[i][2], tabOutFileTSP[i] + "-" + std::to_string(j) + "_Tryb krzy¿owania 50/50.txt", true, false, false, false);
+				timeEnd = GetCounter();
+
+				text = "Tryb krzy¿owania 50/50;" + tabFileTSP[i] + ";" + std::to_string(j) + ";" + std::to_string(timeEnd - timeStart) + ";" + std::to_string(genAlg.bestCost) + ";" + std::to_string(configTSPtab[i][2]) + ";" + genAlg.endType;
+				filewriter("TestTSP.txt", text);
+			}
+		}
+	}
+
+	
+	//Tryby krzy¿owañ 25%/75%
+	if (mode[11]) {
+		std::cout << "Tryby krzy¿owañ 25%/75%" << std::endl;
+
+		for (int i = 0; i < tabFileATSP->size(); i++) {
+			kl.set(tabFileATSP[i]);
+			for (int j = 0; j < repeatNumber; j++) {
+				std::cout << "Start Pomiaru " << tabFileATSP[i] << " - Numer Pomiaru - " << (j + 1) << std::endl;
+				genAlg.init(kl.tabLocation, kl.size, configATSPtab[i][0], configATSPtab[i][1], 0.3);
+				timeStart = GetCounter();
+				genAlg.startAlgoritm(false, true, true, 0.3, true, 500, configATSPtab[i][2], tabOutFileATSP[i] + "-" + std::to_string(j) + "_Tryb krzy¿owania 25/75.txt", true, false, false, false);
+				timeEnd = GetCounter();
+
+				text = "Tryb krzy¿owania 25/75;" + tabFileATSP[i] + ";" + std::to_string(j) + ";" + std::to_string(timeEnd - timeStart) + ";" + std::to_string(genAlg.bestCost) + ";" + std::to_string(configATSPtab[i][2]) + ";" + genAlg.endType;
+				filewriter("TestATSP.txt", text);
+			}
+
+			kl.set(tabFileTSP[i]);
+			for (int j = 0; j < repeatNumber; j++) {
+				std::cout << "Start Pomiaru " << tabFileTSP[i] << " - Numer Pomiaru - " << (j + 1) << std::endl;
+				genAlg.init(kl.tabLocation, kl.size, configTSPtab[i][0], configTSPtab[i][1], 0.3);
+				//(bool croosMode, bool mutateMode, bool succesionMode, double succesionProcent, bool sellectionMode, int maxIterationWithoutBetterVall, int expectedPathCost, std::string fileName, bool descriptionAdd);
+				timeStart = GetCounter();
+				genAlg.startAlgoritm(false, true, true, 0.3, true, 500, configTSPtab[i][2], tabOutFileTSP[i] + "-" + std::to_string(j) + "_Tryb krzy¿owania 25/75.txt", true, false, false, false);
+				timeEnd = GetCounter();
+
+				text = "Tryb krzy¿owania 25/75;" + tabFileTSP[i] + ";" + std::to_string(j) + ";" + std::to_string(timeEnd - timeStart) + ";" + std::to_string(genAlg.bestCost) + ";" + std::to_string(configTSPtab[i][2]) + ";" + genAlg.endType;
+				filewriter("TestTSP.txt", text);
+			}
+		}
+	}
+
+	
+
+	//Pocz¹tkowa wartoœæ mutacji
+
+	double mutateValue[]{
+		0.05,
+		0.3,
+		0.5
+	};
+
+	if (mode[12]) {
+		std::cout << "Pocz¹tkowa wartoœæ mutacji" << std::endl;
+
+		for (int k = 0; k < 3; k++) {
+			for (int i = 0; i < tabFileATSP->size(); i++) {
+				kl.set(tabFileATSP[i]);
+				for (int j = 0; j < repeatNumber; j++) {
+					std::cout << "Start Pomiaru " << tabFileATSP[i] << " - Numer Pomiaru - " << (j + 1) << std::endl;
+					genAlg.init(kl.tabLocation, kl.size, configATSPtab[i][0], configATSPtab[i][1], mutateValue[k]);
+					timeStart = GetCounter();
+					genAlg.startAlgoritm(true, true, true, 0.3, true, 500, configATSPtab[i][2], tabOutFileATSP[i] + "-" + std::to_string(j) + "_Zmienna wartoœæ pocz¹tkowa mutacji" + std::to_string(k) + ".txt", true, false, false, false);
+					timeEnd = GetCounter();
+
+					text = "Zmienna wartoœæ pocz¹tkowa mutacji : " + std::to_string(k) + ";" + tabFileATSP[i] + ";" + std::to_string(j) + ";" + std::to_string(timeEnd - timeStart) + ";" + std::to_string(genAlg.bestCost) + ";" + std::to_string(configATSPtab[i][2]) + ";" + genAlg.endType;
+					filewriter("TestATSP.txt", text);
+				}
+
+				kl.set(tabFileTSP[i]);
+				for (int j = 0; j < repeatNumber; j++) {
+					std::cout << "Start Pomiaru " << tabFileTSP[i] << " - Numer Pomiaru - " << (j + 1) << std::endl;
+					genAlg.init(kl.tabLocation, kl.size, configTSPtab[i][0], configTSPtab[i][1], mutateValue[k]);
+					//(bool croosMode, bool mutateMode, bool succesionMode, double succesionProcent, bool sellectionMode, int maxIterationWithoutBetterVall, int expectedPathCost, std::string fileName, bool descriptionAdd);
+					timeStart = GetCounter();
+					genAlg.startAlgoritm(true, true, true, 0.3, true, 500, configTSPtab[i][2], tabOutFileTSP[i] + "-" + std::to_string(j) + "_Zmienna wartoœæ pocz¹tkowa mutacji" + std::to_string(k) + ".txt", true, false, false, false);
+					timeEnd = GetCounter();
+
+					text = "Zmienna wartoœæ pocz¹tkowa mutacji : " + std::to_string(k) + "; " + tabFileTSP[i] + ";" + std::to_string(j) + ";" + std::to_string(timeEnd - timeStart) + ";" + std::to_string(genAlg.bestCost) + ";" + std::to_string(configTSPtab[i][2]) + ";" + genAlg.endType;
+					filewriter("TestTSP.txt", text);
+				}
+			}
+		}
+	}
 }
-*/
+

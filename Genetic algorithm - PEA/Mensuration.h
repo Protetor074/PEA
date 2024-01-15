@@ -15,6 +15,7 @@ class Pomiar {
 public:
 	void autoTest();//ogólne
 	void autoTest2();//czas pamiêæ
+	void autoTest3();//Przegl¹dowy
 	void T0Test();
 	void startPathTest();
 	void coolingModeTest();

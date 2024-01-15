@@ -1,0 +1,16 @@
+Tryb Testu;Nazwa Instancji; Numer Pomiaru; Czas Pomiaru; Koszt Uzyskany; Koszt Oczekiwany; Typ zakoñczenia
+Test Zmiennej wielkoœci populacji;Pliki Do testów/ATSP/br17.txt;0;373.701600;47;39;Maksymalna liczba iteracji Bez zmian
+Test Zmiennej wielkoœci populacji;Pliki Do testów/ATSP/br17.txt;1;323.338400;39;39;Znaleziono najlepszy wynok
+Test Zmiennej wielkoœci populacji;Pliki Do testów/ATSP/br17.txt;2;411.082600;44;39;Maksymalna liczba iteracji Bez zmian
+Test Zmiennej wielkoœci populacji;Pliki Do testów/ATSP/ftv44.txt;0;6474.003500;2108;1613;Maksymalna liczba iteracji Bez zmian
+Test Zmiennej wielkoœci populacji;Pliki Do testów/ATSP/ftv44.txt;1;3493.067900;2152;1613;Maksymalna liczba iteracji Bez zmian
+Test Zmiennej wielkoœci populacji;Pliki Do testów/ATSP/ftv44.txt;2;3982.821900;2078;1613;Maksymalna liczba iteracji Bez zmian
+Test Zmiennej wielkoœci populacji;Pliki Do testów/ATSP/ftv70.txt;0;8337.550600;3258;1950;Maksymalna liczba iteracji Bez zmian
+Test Zmiennej wielkoœci populacji;Pliki Do testów/ATSP/ftv70.txt;1;15442.422600;2856;1950;Maksymalna liczba iteracji Bez zmian
+Test Zmiennej wielkoœci populacji;Pliki Do testów/ATSP/ftv70.txt;2;12058.136600;3316;1950;Maksymalna liczba iteracji Bez zmian
+Test Zmiennej wielkoœci populacji;Pliki Do testów/ATSP/ftv170.txt;0;211662.944900;6226;2755;Maksymalna liczba iteracji Bez zmian
+Test Zmiennej wielkoœci populacji;Pliki Do testów/ATSP/ftv170.txt;1;254400.547200;5607;2755;Maksymalna liczba iteracji Bez zmian
+Test Zmiennej wielkoœci populacji;Pliki Do testów/ATSP/ftv170.txt;2;181701.740900;6102;2755;Maksymalna liczba iteracji Bez zmian
+Test Zmiennej wielkoœci populacji;Pliki Do testów/ATSP/rbg443.txt;0;1876234.789500;3121;2720;Maksymalna liczba iteracji Bez zmian
+Test Zmiennej wielkoœci populacji;Pliki Do testów/ATSP/rbg443.txt;1;1958689.147700;3097;2720;Maksymalna liczba iteracji Bez zmian
+Test Zmiennej wielkoœci populacji;Pliki Do testów/ATSP/rbg443.txt;2;1320152.741300;3193;2720;Maksymalna liczba iteracji Bez zmian
